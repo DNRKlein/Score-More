@@ -22,7 +22,7 @@ namespace ScoreMore
 			SetContentView (Resource.Layout.Main);
 
 			// Get our button from the layout resource,
-			// and attach an event to ittttt
+			// sgdgh
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
 			button.Click += delegate {
