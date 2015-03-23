@@ -1,0 +1,17 @@
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\bin\Debug\ScoreMore.dll
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\bin\Debug\ScoreMore.pdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\bin\Debug\ScoreMore.dll.mdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\bin\Debug\ScoreMore.ScoreMore.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\bin\Debug\ScoreMore.ScoreMore-Signed.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\ScoreMore.dll
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\ScoreMore.pdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\android\bin\ScoreMore.ScoreMore.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\res\layout\main.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\res\values\strings.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\res\drawable-hdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\res\drawable-mdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\res\drawable-xhdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\R.cs.flag
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\ScoreMore\obj\Debug\uploadflags.txt
