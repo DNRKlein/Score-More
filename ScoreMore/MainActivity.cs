@@ -13,7 +13,6 @@ namespace ScoreMore
 	public class MainActivity : Activity
 	{
 		int count = 3;
-		int test = mart, sync test;
 
 		protected override void OnCreate (Bundle bundle)
 		{

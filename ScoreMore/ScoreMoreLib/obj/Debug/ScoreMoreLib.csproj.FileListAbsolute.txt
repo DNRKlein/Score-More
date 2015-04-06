@@ -1,0 +1,11 @@
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.pdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll.mdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib-Signed.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.dll
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.pdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\android\bin\ScoreMoreLib.ScoreMoreLib.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace ScoreMoreLib
 {
@@ -7,10 +8,10 @@ namespace ScoreMoreLib
 		private Onderwerp parent;
 		private string titel;
 
-		public Onderwerp (Onderwerp parent, string titel)
+		public Onderwerp (string titel, Onderwerp parent)
 		{
-			this.parent = parent;
 			this.titel = titel;
+			this.parent = parent;
 		}
 
 		public Onderwerp getParent(){
@@ -31,9 +32,30 @@ namespace ScoreMoreLib
 
 		/// <summary>
 		/// Schrijf Onderwerp naar het Onderwerp file.
+		/// 
+		/// Pakt de titel van dit onderwerp en de titel van het parentOnderwerp,
+		/// schrijft deze lijn voor lijn naar een file dat in deze lib staat.
 		/// </summary>
 		public void writeToFile(){
+			string line = getTitel () + ", " + getParent ().getTitel ();
 
+			try{
+				StreamWriter strWriter = new StreamWriter("OnderwerpenTextFile.txt");
+				strWriter.WriteLine(line);
+				strWriter.Close();
+			}
+
+			catch(FileNotFoundException ex){
+				Console.WriteLine (ex);
+			}
+		}
+
+		public void Main(string[] args){
+			Onderwerp ond1 = new Onderwerp ("Geschiedenis", null);
+			Onderwerp ond2 = new Onderwerp ("Middeleeuwen", ond1);
+
+			ond1.writeToFile ();
+			ond2.writeToFile ();
 		}
 	}
 }
