@@ -49,14 +49,6 @@ namespace ScoreMoreLib
 				Console.WriteLine (ex);
 			}
 		}
-
-		public void Main(string[] args){
-			Onderwerp ond1 = new Onderwerp ("Geschiedenis", null);
-			Onderwerp ond2 = new Onderwerp ("Middeleeuwen", ond1);
-
-			ond1.writeToFile ();
-			ond2.writeToFile ();
-		}
 	}
 }
 

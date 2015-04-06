@@ -1,1 +1,2 @@
 ScoreMore.MainActivity;scoremore.MainActivity
+ScoreMore.OnderwerpActivity;scoremore.OnderwerpActivity
