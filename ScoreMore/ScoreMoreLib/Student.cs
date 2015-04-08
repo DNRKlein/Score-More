@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Studentklasse
+namespace ScoreMoreLib
 {
 	public class Student
 	{

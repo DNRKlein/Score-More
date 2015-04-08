@@ -8,7 +8,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace Studentklasse
+namespace ScoreMore
 {
 	[Activity (Label = "Studentklasse", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
