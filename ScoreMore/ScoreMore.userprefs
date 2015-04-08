@@ -1,10 +1,21 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="ScoreMoreLib\Onderwerp.cs">
+=======
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScoreMoreLib\Student.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="1" Column="1" />
+      <File FileName="ScoreMoreLib\Student.cs" Line="26" Column="3" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnderwerpActivity.cs">
+>>>>>>> origin/master
     <Files>
       <File FileName="ScoreMoreLib\Onderwerp.cs" Line="1" Column="1" />
       <File FileName="ScoreMoreLib\Vraag.cs" Line="1" Column="1" />
       <File FileName="OnderwerpActivity.cs" Line="1" Column="1" />
+>>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
