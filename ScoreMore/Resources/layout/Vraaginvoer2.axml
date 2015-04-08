@@ -4,12 +4,12 @@
     p1:layout_height="match_parent"
     p1:id="@+id/relativeLayout1">
     <TextView
-        p1:text="Meerkeuzevraag met meerdere antwoorden"
+        p1:text="Meerkeuzevraag met meerdere juiste antwoorden"
         p1:textAppearance="?android:attr/textAppearanceMedium"
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
         p1:id="@+id/textView1"
-        p1:height="30dp"
+        p1:height="50dp"
         p1:gravity="center_horizontal" />
     <TextView
         p1:text="Vraag"
