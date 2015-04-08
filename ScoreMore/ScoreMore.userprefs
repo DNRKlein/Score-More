@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ScoreMoreLib\Vraag.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ScoreMoreLib\Onderwerp.cs" Line="3" Column="1" />
-      <File FileName="ScoreMoreLib\Vraag.cs" Line="4" Column="4" />
+      <File FileName="ScoreMoreLib\Onderwerp.cs" Line="1" Column="1" />
+      <File FileName="ScoreMoreLib\Vraag.cs" Line="9" Column="16" />
+      <File FileName="OnderwerpActivity.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
