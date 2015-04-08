@@ -9,7 +9,6 @@ namespace ScoreMoreLib
 		private string wachtwoord;
 		private bool administrator;
 
-		//
 		//private list<int> groep;
 		//private list<int> panel;
 		//private list<int> trainingsresultaten;
@@ -18,7 +17,6 @@ namespace ScoreMoreLib
 			string account_info = String.Format("{0}, {1}", email, wachtwoord);
 
 			// Opslaan van data in account.txt
-
 			using (StreamWriter w = File.AppendText("Accounts.txt"))
 			{
 				w.WriteLine(account_info);
@@ -32,7 +30,7 @@ namespace ScoreMoreLib
 			administrator = false; 		// variabele die bepaalt of een gebruiker beheerder is of niet.
 
 			// wegschrijven van de data in de 'database'
-			saveAccount (email, wachtwoord);  // If I enable this line it'll bug out right after pressing the register button
+			saveAccount (email, wachtwoord);
 		}
 
 
