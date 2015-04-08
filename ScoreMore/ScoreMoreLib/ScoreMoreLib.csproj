@@ -46,10 +46,11 @@
     <Compile Include="Onderwerp.cs" />
     <Compile Include="Vraag.cs" />
     <Compile Include="VraagType.cs" />
+    <Compile Include="OnderwerpenLijst.cs" />
+    <Compile Include="Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
-    <None Include="OnderwerpenTextFile.txt" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />

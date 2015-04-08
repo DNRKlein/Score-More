@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:baselineAligned="true">
+    <TextView
+        android:text="Registreren"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="39.9dp"
+        android:id="@+id/textView3"
+        android:gravity="center_horizontal"
+        android:textAlignment="inherit"
+        android:textColor="#ffa60a0a" />
+    <TextView
+        android:text="E-mail"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:gravity="center_horizontal" />
+    <EditText
+        android:inputType="textEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/inv_email"
+        android:gravity="center_horizontal"
+        android:hint="Klik om te typen"
+        android:fontFamily="@string/hello"
+        android:maxLength="15" />
+    <TextView
+        android:text="Wachtwoord"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:enabled="true"
+        android:gravity="center_horizontal" />
+    <EditText
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/inv_wachtwoord"
+        android:hint="Klik om te typen"
+        android:gravity="center_horizontal"
+        android:password="true"
+        android:fontFamily="@string/hello"
+        android:maxLength="15" />
+    <TextView
+        android:text="Wachtwoord (herhalen)"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:gravity="center_horizontal" />
+    <EditText
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/her_wachtwoord"
+        android:hint="Klik om te typen"
+        android:gravity="center_horizontal"
+        android:password="true"
+        android:fontFamily="@string/hello"
+        android:maxLength="15" />
+    <Button
+        android:text="Registreren"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/but_registreren"
+        android:gravity="center"
+        android:textAlignment="textStart"
+        android:phoneNumber="true" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_waarschuwing"
+        android:gravity="center_horizontal" />
+</LinearLayout>

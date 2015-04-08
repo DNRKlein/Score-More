@@ -36,11 +36,11 @@ namespace ScoreMoreLib
 		/// Pakt de titel van dit onderwerp en de titel van het parentOnderwerp,
 		/// schrijft deze lijn voor lijn naar een file dat in deze lib staat.
 		/// </summary>
-		public void writeToFile(){
+		public void writeToFile(File file){
 			string line = getTitel () + ", " + getParent ().getTitel ();
 
 			try{
-				StreamWriter strWriter = new StreamWriter("OnderwerpenTextFile.txt");
+				StreamWriter strWriter = new StreamWriter(file);
 				strWriter.WriteLine(line);
 				strWriter.Close();
 			}
