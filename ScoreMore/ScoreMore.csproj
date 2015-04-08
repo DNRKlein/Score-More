@@ -65,6 +65,7 @@
     <AndroidResource Include="Resources\layout\ListOnderwerpItem.axml" />
     <AndroidResource Include="Resources\layout\VraagInvoerMain.axml" />
     <AndroidResource Include="Resources\layout\Vraaginvoer1.axml" />
+    <AndroidResource Include="Resources\layout\registreren.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
