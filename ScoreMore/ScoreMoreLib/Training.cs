@@ -11,10 +11,10 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace ScoreMore
+namespace ScoreMoreLib
 {
-	[Activity (Label = "VolgendeActivity")]			
-	public class VolgendeActivity : Activity
+	[Activity (Label = "Training")]			
+	public class Training : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
 		{

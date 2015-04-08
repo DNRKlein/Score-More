@@ -48,6 +48,7 @@
     <Compile Include="VraagType.cs" />
     <Compile Include="OnderwerpenLijst.cs" />
     <Compile Include="Student.cs" />
+    <Compile Include="Training.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />

@@ -1,37 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent">
-    <TextView
-        android:text="Wat is de hoofdstad van Nederland?"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView1" />
-    <Button
-        android:text="Amsterdam"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button1" />
-    <Button
-        android:text="Groningen"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button2" />
-    <Button
-        android:text="Eindhoven"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button3" />
-    <Button
-        android:text="Rotterdam"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button4" />
-    <Button
-        android:text="Volgende"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/volgendebutton" />
+    android:layout_height="fill_parent"
+    >
 </LinearLayout>
+
