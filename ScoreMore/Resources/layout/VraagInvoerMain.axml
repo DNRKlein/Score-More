@@ -12,7 +12,8 @@
         p1:id="@+id/textView2"
         p1:height="100dp"
         p1:textAlignment="center"
-        p1:gravity="center_horizontal" />
+        p1:gravity="center_horizontal"
+        p1:textColor="#ffa60a0a" />
     <TextView
         p1:text="Kies de soort vraag, die u wilt invoeren:"
         p1:textAppearance="?android:attr/textAppearanceMedium"

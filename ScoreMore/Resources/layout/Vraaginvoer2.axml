@@ -10,7 +10,8 @@
         p1:layout_height="wrap_content"
         p1:id="@+id/textView1"
         p1:height="50dp"
-        p1:gravity="center_horizontal" />
+        p1:gravity="center_horizontal"
+        p1:textColor="#ffa60a0a" />
     <TextView
         p1:text="Vraag"
         p1:layout_width="wrap_content"

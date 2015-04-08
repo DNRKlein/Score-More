@@ -11,7 +11,8 @@
         p1:id="@+id/textView1"
         p1:gravity="center_horizontal"
         p1:textAlignment="center"
-        p1:height="30dp" />
+        p1:height="30dp"
+        p1:textColor="#ffa60a0a" />
     <TextView
         p1:text="Vraag"
         p1:layout_width="wrap_content"
