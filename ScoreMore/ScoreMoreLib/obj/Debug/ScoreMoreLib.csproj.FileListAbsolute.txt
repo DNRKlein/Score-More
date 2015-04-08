@@ -11,3 +11,5 @@ C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMo
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
 C:\Users\Mart\Zuyd\2014-2015\Kwartiel 3, leerjaar 2\PIT 1\Casus\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.dll
 C:\Users\Mart\Zuyd\2014-2015\Kwartiel 3, leerjaar 2\PIT 1\Casus\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.pdb
