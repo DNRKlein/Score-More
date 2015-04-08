@@ -48,6 +48,7 @@
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OnderwerpActivity.cs" />
+    <Compile Include="VolgendeActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -67,6 +68,8 @@
     <AndroidResource Include="Resources\layout\Vraaginvoer1.axml" />
     <AndroidResource Include="Resources\layout\Vraaginvoer2.axml" />
     <AndroidResource Include="Resources\layout\registreren.axml" />
+    <AndroidResource Include="Resources\layout\Vraag1Layout.axml" />
+    <AndroidResource Include="Resources\layout\VolgendeLayout.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
