@@ -83,6 +83,8 @@ namespace ScoreMore
 				txt_waarschuwing.Text = String.Format("Het account is aangemaakt met de naam {0}", inv_email.Text);
 
 				// overschakelen naar mainscreen --
+
+				StartActivity(typeof(MainMenuActivity));
 			};
 		}
 	}

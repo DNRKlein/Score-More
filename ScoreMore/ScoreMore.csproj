@@ -50,6 +50,7 @@
     <Compile Include="OnderwerpActivity.cs" />
     <Compile Include="VolgendeActivity.cs" />
     <Compile Include="Vraag1.cs" />
+    <Compile Include="MainMenuActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
