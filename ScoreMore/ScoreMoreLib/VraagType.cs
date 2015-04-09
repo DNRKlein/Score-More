@@ -2,7 +2,7 @@
 
 namespace ScoreMoreLib
 {
-	public enum Vraagtype
+	public enum VraagType
 	{
 		MeerkeuzeSingulier,
 		MeerkeuzeMultipel,

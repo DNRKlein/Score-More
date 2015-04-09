@@ -27,7 +27,6 @@ C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Deb
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\ScoreMore.dll
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\ScoreMore.pdb
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\android\bin\ScoreMore.ScoreMore.apk
-C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\main.xml
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\values\strings.xml
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-hdpi\icon.png
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-mdpi\icon.png
@@ -35,5 +34,12 @@ C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Deb
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-xxxhdpi\icon.png
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\listonderwerpitem.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoermain.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer1.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer2.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\registreren.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraag1layout.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\volgendelayout.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\mainmenu.xml
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\R.cs.flag
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\uploadflags.txt

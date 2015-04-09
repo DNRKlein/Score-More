@@ -5,22 +5,22 @@
     android:layout_height="fill_parent">
     <Button
         android:id="@+id/menu_training"
-        android:layout_heigth="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:text="@string/menu_training" />
     <Button
         android:id="@+id/menu_vraag"
-        android:layout_heigth="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:text="@string/menu_vraag" />
     <Button
         android:id="@+id/menu_groepen"
-        android:layout_heigth="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:text="@string/menu_groepen" />
     <Button
         android:id="@+id/menu_panel"
-        android:layout_heigth="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:text="@string/menu_panel" />
 </LinearLayout>

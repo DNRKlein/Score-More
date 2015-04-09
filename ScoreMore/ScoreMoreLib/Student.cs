@@ -13,7 +13,7 @@ namespace ScoreMoreLib
 		//private list<int> panel;
 		//private list<int> trainingsresultaten;
 
-		public void saveAccount(string email, string wachtwoord){
+		/*public void saveAccount(string email, string wachtwoord){
 			string account_info = String.Format("{0}, {1}", email, wachtwoord);
 
 			// Opslaan van data in account.txt
@@ -22,7 +22,7 @@ namespace ScoreMoreLib
 				w.WriteLine(account_info);
 				w.Close();
 			}
-		}
+		}*/
 
 		public Student (string email_value, string wachtwoord_value){
 			email = email_value;
@@ -30,7 +30,7 @@ namespace ScoreMoreLib
 			administrator = false; 		// variabele die bepaalt of een gebruiker beheerder is of niet.
 
 			// wegschrijven van de data in de 'database'
-			saveAccount (email, wachtwoord);
+			//saveAccount (email, wachtwoord);
 		}
 
 

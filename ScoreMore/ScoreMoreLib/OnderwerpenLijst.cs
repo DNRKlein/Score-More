@@ -5,7 +5,7 @@ namespace ScoreMoreLib
 {
 	public class OnderwerpenLijst
 	{
-		private ArrayList OnderwerpenLijst;
+		private ArrayList onderwerpenLijst;
 
 		public OnderwerpenLijst ()
 		{

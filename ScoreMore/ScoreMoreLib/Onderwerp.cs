@@ -36,7 +36,7 @@ namespace ScoreMoreLib
 		/// Pakt de titel van dit onderwerp en de titel van het parentOnderwerp,
 		/// schrijft deze lijn voor lijn naar een file dat in deze lib staat.
 		/// </summary>
-		public void writeToFile(File file){
+		/*public void writeToFile(File file){
 			string line = getTitel () + ", " + getParent ().getTitel ();
 
 			try{
@@ -48,7 +48,7 @@ namespace ScoreMoreLib
 			catch(FileNotFoundException ex){
 				Console.WriteLine (ex);
 			}
-		}
+		}*/
 	}
 }
 

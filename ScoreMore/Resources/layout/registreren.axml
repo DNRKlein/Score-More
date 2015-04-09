@@ -27,7 +27,6 @@
         android:id="@+id/inv_email"
         android:gravity="center_horizontal"
         android:hint="Klik om te typen"
-        android:fontFamily="@string/hello"
         android:maxLength="25" />
     <TextView
         android:text="Wachtwoord"
@@ -52,7 +51,6 @@
         android:hint="Klik om te typen"
         android:gravity="center_horizontal"
         android:password="true"
-        android:fontFamily="@string/hello"
         android:maxLength="15" />
     <TextView
         android:text="Wachtwoord (herhalen)"
@@ -69,7 +67,6 @@
         android:hint="Klik om te typen"
         android:gravity="center_horizontal"
         android:password="true"
-        android:fontFamily="@string/hello"
         android:maxLength="15" />
     <Button
         android:text="Registreren"

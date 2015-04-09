@@ -8,6 +8,8 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
+using ScoreMoreLib;
+
 namespace ScoreMore
 {
 	[Activity (Label = "Studentklasse", MainLauncher = true, Icon = "@drawable/icon")]
