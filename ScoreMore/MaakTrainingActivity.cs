@@ -28,7 +28,7 @@ namespace ScoreMore
 			base.OnCreate (bundle);
 
 			onderwerpenList = new Onderwerp[]{ pit_1, if_5 };
-			string[] onderwerpTitels = new string[];
+			string[] onderwerpTitels = new string[100];
 
 			for(int i = 0; i < onderwerpenList.Length; i++){
 				onderwerpTitels[i] = onderwerpenList[i].getTitel();
