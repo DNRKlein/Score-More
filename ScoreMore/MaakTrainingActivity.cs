@@ -34,7 +34,7 @@ namespace ScoreMore
 				onderwerpTitels[i] = onderwerpenList[i].getTitel();
 			}*/
 
-			adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItemActivated1, onderwerpTitels);
+			adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItemMultipleChoice, onderwerpTitels);
 			ListAdapter = adapter;
 		}
 	}
