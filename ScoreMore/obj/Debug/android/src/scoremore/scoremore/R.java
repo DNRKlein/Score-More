@@ -33,8 +33,10 @@ public final class R {
         public static final int menu_panel=0x7f050004;
         public static final int menu_training=0x7f050001;
         public static final int menu_vraag=0x7f050002;
+        public static final int multipel=0x7f05001f;
         public static final int onderwerp_textview=0x7f050000;
         public static final int relativeLayout1=0x7f050015;
+        public static final int singulier=0x7f05001e;
         public static final int textView1=0x7f05000f;
         public static final int textView2=0x7f050016;
         public static final int textView3=0x7f050005;

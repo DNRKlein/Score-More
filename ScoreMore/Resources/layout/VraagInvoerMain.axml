@@ -26,13 +26,13 @@
         p1:text="Meerkeuze, één juist antwoord mogelijk"
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
-        p1:id="@+id/button1"
+        p1:id="@+id/singulier"
         p1:gravity="left" />
     <Button
         p1:text="Meerkeuze, meerdere juiste antwoorden mogelijk"
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
-        p1:id="@+id/button2"
+        p1:id="@+id/multipel"
         p1:gravity="left" />
     <Button
         p1:text="Open vraag"
