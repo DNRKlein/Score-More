@@ -28,11 +28,11 @@ namespace ScoreMore
 			base.OnCreate (bundle);
 
 			onderwerpenList = new Onderwerp[]{ pit_1, if_5 };
-			string[] onderwerpTitels = new string[100];
+			string[] onderwerpTitels = {onderwerpenList[0].getTitel(), onderwerpenList[1].getTitel()};
 
-			for(int i = 0; i < onderwerpenList.Length; i++){
+			/*for(int i = 0; i < onderwerpenList.Length; i++){
 				onderwerpTitels[i] = onderwerpenList[i].getTitel();
-			}
+			}*/
 
 			adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItemActivated1, onderwerpTitels);
 			ListAdapter = adapter;
