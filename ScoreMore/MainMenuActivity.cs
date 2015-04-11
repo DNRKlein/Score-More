@@ -21,6 +21,11 @@ namespace ScoreMore
 			base.OnCreate (bundle);
 			SetContentView (Resource.Layout.MainMenu);
 
+			//Button naar vraag invoeren scherm
+			Button button_menuvraag = FindViewById<Button> (Resource.Id.menu_vraag);
+			button_menuvraag.Click += delegate {
+				StartActivity(typeof(VraaginvoerActivity));
+			};
 		}
 	}
 }
