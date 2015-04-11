@@ -34,7 +34,7 @@ public final class R {
         public static final int menu_training=0x7f050001;
         public static final int menu_vraag=0x7f050002;
         public static final int multipel=0x7f05001f;
-        public static final int onderwerp_textview=0x7f050000;
+        public static final int onderwerpTextView=0x7f050000;
         public static final int relativeLayout1=0x7f050015;
         public static final int singulier=0x7f05001e;
         public static final int textView1=0x7f05000f;
@@ -48,7 +48,7 @@ public final class R {
         public static final int volgendebutton=0x7f050014;
     }
     public static final class layout {
-        public static final int listonderwerpitem=0x7f030000;
+        public static final int maaktraining=0x7f030000;
         public static final int mainmenu=0x7f030001;
         public static final int registreren=0x7f030002;
         public static final int volgendelayout=0x7f030003;

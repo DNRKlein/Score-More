@@ -8,11 +8,11 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="OnderwerpActivity" android:name="scoremore.OnderwerpActivity" />
     <activity android:label="VolgendeActivity" android:name="scoremore.VolgendeActivity" />
     <activity android:label="Vraag1" android:name="scoremore.Vraag1" />
     <activity android:name="scoremore.MainMenuActivity" />
     <activity android:label="VraaginvoerActivity" android:name="scoremore.VraaginvoerActivity" />
+    <activity android:name="scoremore.MaakTrainingActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="ScoreMore.ScoreMore.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>

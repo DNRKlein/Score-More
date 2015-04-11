@@ -34,7 +34,7 @@ namespace ScoreMore
 			itemList = new string[] {"item 1", "item 2", "item 3"};
 			//listview = FindViewById<ListView> (Resource.Id.onderwerp_listview);
 
-			adapter = new ArrayAdapter<String>(this.ApplicationContext, Resource.Layout.ListOnderwerpItem, Resource.Id.onderwerp_textview, itemList);
+			adapter = new ArrayAdapter<String>(this.ApplicationContext, Resource.Layout.ListOnderwerpheader, Resource.Id.onderwerp_textview, itemList);
 			ListAdapter = adapter;
 		}
 	}

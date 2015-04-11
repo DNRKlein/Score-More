@@ -1,6 +1,6 @@
 ScoreMore.MainActivity;scoremore.MainActivity
-ScoreMore.OnderwerpActivity;scoremore.OnderwerpActivity
 ScoreMore.VolgendeActivity;scoremore.VolgendeActivity
 ScoreMore.Vraag1;scoremore.Vraag1
 ScoreMore.MainMenuActivity;scoremore.MainMenuActivity
 ScoreMore.VraaginvoerActivity;scoremore.VraaginvoerActivity
+ScoreMore.MaakTrainingActivity;scoremore.MaakTrainingActivity
