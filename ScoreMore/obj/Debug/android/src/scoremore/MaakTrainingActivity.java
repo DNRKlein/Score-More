@@ -2,7 +2,7 @@ package scoremore;
 
 
 public class MaakTrainingActivity
-	extends android.app.ListActivity
+	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
 {

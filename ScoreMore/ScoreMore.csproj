@@ -72,6 +72,7 @@
     <AndroidResource Include="Resources\layout\Vraag1Layout.axml" />
     <AndroidResource Include="Resources\layout\VolgendeLayout.axml" />
     <AndroidResource Include="Resources\layout\MainMenu.axml" />
+    <AndroidResource Include="Resources\layout\MaakTraining.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

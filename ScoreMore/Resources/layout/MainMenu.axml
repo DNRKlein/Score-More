@@ -7,25 +7,33 @@
     <Button
         android:id="@+id/menu_training"
         android:layout_height="wrap_content"
-        android:layout_width="175dp"
+        android:layout_width="500dp"
         android:text="@string/menu_training"
-        android:layout_centerInParent="true" />
+        android:layout_centerInParent="true"
+        android:textSize="50dp"
+        android:layout_margin="20dp" />
     <Button
         android:id="@+id/menu_vraag"
         android:layout_height="wrap_content"
-        android:layout_width="175dp"
+        android:layout_width="500dp"
         android:text="@string/menu_vraag"
-        android:layout_centerInParent="true" />
+        android:layout_centerInParent="true"
+        android:textSize="50dp"
+        android:layout_margin="20dp" />
     <Button
         android:id="@+id/menu_groepen"
         android:layout_height="wrap_content"
-        android:layout_width="175dp"
+        android:layout_width="500dp"
         android:text="@string/menu_groepen"
-        android:layout_centerInParent="true" />
+        android:layout_centerInParent="true"
+        android:textSize="50dp"
+        android:layout_margin="20dp" />
     <Button
         android:id="@+id/menu_panel"
         android:layout_height="wrap_content"
-        android:layout_width="175dp"
+        android:layout_width="500dp"
         android:text="@string/menu_panel"
-        android:layout_centerInParent="true" />
+        android:layout_centerInParent="true"
+        android:textSize="50dp"
+        android:layout_margin="20dp" />
 </LinearLayout>

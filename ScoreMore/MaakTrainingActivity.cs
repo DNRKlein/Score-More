@@ -15,9 +15,8 @@ using ScoreMoreLib;
 namespace ScoreMore
 {
 	[Activity]			
-	public class MaakTrainingActivity : ListActivity
+	public class MaakTrainingActivity : Activity
 	{
-		private ArrayAdapter adapter;
 		private Onderwerp[] onderwerpenList;
 
 		private Onderwerp pit_1 = new Onderwerp ("Mobile Applications", null);
@@ -26,6 +25,7 @@ namespace ScoreMore
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
+			SetContentView (Resource.Layout.MaakTraining);
 
 			onderwerpenList = new Onderwerp[]{ pit_1, if_5 };
 			string[] onderwerpTitels = {onderwerpenList[0].getTitel(), onderwerpenList[1].getTitel()};
@@ -33,9 +33,11 @@ namespace ScoreMore
 			/*for(int i = 0; i < onderwerpenList.Length; i++){
 				onderwerpTitels[i] = onderwerpenList[i].getTitel();
 			}*/
-
-			adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItemMultipleChoice, onderwerpTitels);
-			ListAdapter = adapter;
+			RunOnUiThread(() =>
+				{
+				ListView listview = FindViewById<ListView> (Resource.Id.listview1);
+				listview.Adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItem1, onderwerpTitels);
+				});
 		}
 	}
 }
