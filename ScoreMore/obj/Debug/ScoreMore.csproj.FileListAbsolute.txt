@@ -99,3 +99,32 @@ C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Deb
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\maaktraining.xml
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\R.cs.flag
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\uploadflags.txt
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.dll.mdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.ScoreMore.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.ScoreMore-Signed.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.dll.mdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\ScoreMore.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\ScoreMore.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\ScoreMore.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\android\bin\ScoreMore.ScoreMore.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\values\strings.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoermain.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer1.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer2.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\registreren.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraag1layout.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\volgendelayout.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\mainmenu.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\maaktraining.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\trainingfeedback.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\R.cs.flag
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\uploadflags.txt
