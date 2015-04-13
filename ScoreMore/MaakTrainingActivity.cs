@@ -33,11 +33,10 @@ namespace ScoreMore
 			/*for(int i = 0; i < onderwerpenList.Length; i++){
 				onderwerpTitels[i] = onderwerpenList[i].getTitel();
 			}*/
-			RunOnUiThread(() =>
-				{
-				ListView listview = FindViewById<ListView> (Resource.Id.listview1);
-				listview.Adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItem1, onderwerpTitels);
-				});
+
+			ListView listview = FindViewById<ListView> (Resource.Id.listview1);
+			listview.Adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItem1, onderwerpTitels);
+			
 		}
 	}
 }
