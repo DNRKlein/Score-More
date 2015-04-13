@@ -3,24 +3,64 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
+<<<<<<< HEAD
+=======
+    <TextView
+        android:text="Hoofdmenu"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_marginBottom="72.8dp"
+        android:gravity="center_horizontal"
+        android:textColor="#ffa60a0a" />
+>>>>>>> origin/master
     <Button
         android:id="@+id/menu_training"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_width="wrap_content"
         android:text="@string/menu_training" />
+=======
+        android:text="@string/menu_training"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+>>>>>>> origin/master
     <Button
         android:id="@+id/menu_vraag"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_width="wrap_content"
         android:text="@string/menu_vraag" />
+=======
+        android:text="@string/menu_vraag"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+>>>>>>> origin/master
     <Button
         android:id="@+id/menu_groepen"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_width="wrap_content"
         android:text="@string/menu_groepen" />
+=======
+        android:text="@string/menu_groepen"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+>>>>>>> origin/master
     <Button
         android:id="@+id/menu_panel"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_width="wrap_content"
         android:text="@string/menu_panel" />
+=======
+        android:text="@string/menu_panel"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+>>>>>>> origin/master
 </LinearLayout>

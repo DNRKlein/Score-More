@@ -4,3 +4,4 @@ ScoreMore.Vraag1;scoremore.Vraag1
 ScoreMore.MainMenuActivity;scoremore.MainMenuActivity
 ScoreMore.VraaginvoerActivity;scoremore.VraaginvoerActivity
 ScoreMore.MaakTrainingActivity;scoremore.MaakTrainingActivity
+ScoreMore.SimpleListItemMulptipleChoiceAdapter;scoremore.SimpleListItemMulptipleChoiceAdapter

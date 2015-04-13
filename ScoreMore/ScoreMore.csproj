@@ -18,7 +18,7 @@
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
     <AssemblyName>ScoreMore</AssemblyName>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
-    <TargetFrameworkVersion>v4.4</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -54,7 +54,11 @@
     <Compile Include="MainMenuActivity.cs" />
     <Compile Include="VraaginvoerActivity.cs" />
     <Compile Include="MaakTrainingActivity.cs" />
+<<<<<<< HEAD
     <Compile Include="Resources\Resource.designer.cs" />
+=======
+    <Compile Include="SimpleListItemMulptipleChoiceAdapter.cs" />
+>>>>>>> origin/master
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -76,8 +80,12 @@
     <AndroidResource Include="Resources\layout\VolgendeLayout.axml" />
     <AndroidResource Include="Resources\layout\MainMenu.axml" />
     <AndroidResource Include="Resources\layout\MaakTraining.axml" />
+<<<<<<< HEAD
     <AndroidResource Include="Resources\layout\vraaginvoerOnderwerpkeuze.axml" />
     <AndroidResource Include="Resources\layout\VraaginvoerSlot.axml" />
+=======
+    <AndroidResource Include="Resources\layout\trainingFeedback.axml" />
+>>>>>>> origin/master
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
