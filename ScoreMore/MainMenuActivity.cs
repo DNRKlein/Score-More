@@ -1,4 +1,4 @@
-﻿
+﻿using ScoreMoreLib;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +23,9 @@ namespace ScoreMore
 			base.OnCreate (bundle);
 			SetContentView (Resource.Layout.MainMenu);
 
+			string text = Intent.GetStringExtra ("myData") ?? "Data not available";
+
+
 			//Button naar training starten scherm
 			Button button_menutraining = FindViewById<Button> (Resource.Id.menu_training);
 
@@ -34,14 +37,24 @@ namespace ScoreMore
 
 			//Button naar panel scherm
 			Button button_menupanel = FindViewById<Button> (Resource.Id.menu_panel);
+			TextView login_naam = FindViewById<TextView> (Resource.Id.login_naam);
+
+			login_naam.Text = String.Format ("ingelogd op: {0}", text);
+
 
 			button_menutraining.Click += delegate {
-				StartActivity(typeof(MaakTrainingActivity));
+				StartActivity (typeof(MaakTrainingActivity));
 			};
 
 			button_menuvraag.Click += delegate {
-				StartActivity(typeof(VraaginvoerActivity));
+				StartActivity (typeof(VraaginvoerActivity));
 			};
+
+		}
+
+
+		public override void OnBackPressed() {
+			//keep it blank
 		}
 	}
 }

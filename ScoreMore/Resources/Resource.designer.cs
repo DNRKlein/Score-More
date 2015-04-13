@@ -61,8 +61,16 @@ namespace ScoreMore
 		public partial class Id
 		{
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f05001d
 			public const int antwoord = 2131034141;
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+			// aapt resource value: 0x7f05001a
+			public const int antwoord = 2131034138;
+>>>>>>> origin/master
 			
 			// aapt resource value: 0x7f050024
 			public const int antwoord1 = 2131034148;
@@ -73,30 +81,84 @@ namespace ScoreMore
 			// aapt resource value: 0x7f05000f
 			public const int but_registreren = 2131034127;
 			
+>>>>>>> origin/master
 			// aapt resource value: 0x7f050015
-			public const int button1 = 2131034133;
+			public const int but_hoofdmenu = 2131034133;
+			
+			// aapt resource value: 0x7f050010
+			public const int but_registreren = 2131034128;
 			
 			// aapt resource value: 0x7f050016
-			public const int button2 = 2131034134;
+			public const int button1 = 2131034134;
 			
 			// aapt resource value: 0x7f050017
-			public const int button3 = 2131034135;
+			public const int button2 = 2131034135;
 			
 			// aapt resource value: 0x7f050018
-			public const int button4 = 2131034136;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+			public const int button3 = 2131034136;
+=======
+<<<<<<< HEAD
+			public const int editText1 = 2131034136;
+			
+			// aapt resource value: 0x7f050019
+			public const int editText2 = 2131034137;
 			
 			// aapt resource value: 0x7f05001b
-			public const int editText1 = 2131034139;
+			public const int editText3 = 2131034139;
+			
+			// aapt resource value: 0x7f05001e
+			public const int editText4 = 2131034142;
+			
+			// aapt resource value: 0x7f05001f
+			public const int editText5 = 2131034143;
+			
+			// aapt resource value: 0x7f050020
+			public const int editText6 = 2131034144;
+=======
+>>>>>>> origin/master
+			public const int button4 = 2131034136;
+>>>>>>> origin/master
+			
+			// aapt resource value: 0x7f050019
+			public const int button4 = 2131034137;
 			
 			// aapt resource value: 0x7f05001c
-			public const int editText2 = 2131034140;
+			public const int editText1 = 2131034140;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f05001e
 			public const int editText3 = 2131034142;
 			
 			// aapt resource value: 0x7f050021
 			public const int editText4 = 2131034145;
 			
+=======
+			// aapt resource value: 0x7f05001d
+<<<<<<< HEAD
+			public const int editText2 = 2131034141;
+=======
+			public const int editText3 = 2131034141;
+>>>>>>> origin/master
+>>>>>>> origin/master
+			
+			// aapt resource value: 0x7f05001e
+			public const int editText3 = 2131034142;
+			
+			// aapt resource value: 0x7f05001f
+			public const int editText4 = 2131034143;
+			
+			// aapt resource value: 0x7f050020
+			public const int editText5 = 2131034144;
+			
+<<<<<<< HEAD
+			// aapt resource value: 0x7f050021
+			public const int editText6 = 2131034145;
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
 			// aapt resource value: 0x7f050022
 			public const int editText5 = 2131034146;
 			
@@ -105,24 +167,44 @@ namespace ScoreMore
 			
 			// aapt resource value: 0x7f05000e
 			public const int her_wachtwoord = 2131034126;
+>>>>>>> origin/master
 			
-			// aapt resource value: 0x7f050009
-			public const int inv_email = 2131034121;
+			// aapt resource value: 0x7f05000f
+			public const int her_wachtwoord = 2131034127;
 			
-			// aapt resource value: 0x7f05000c
-			public const int inv_wachtwoord = 2131034124;
+			// aapt resource value: 0x7f05000a
+			public const int inv_email = 2131034122;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f050025
 			public const int linearLayout1 = 2131034149;
+=======
+			// aapt resource value: 0x7f05000d
+			public const int inv_wachtwoord = 2131034125;
+>>>>>>> origin/master
 			
-			// aapt resource value: 0x7f050012
-			public const int listView1 = 2131034130;
+			// aapt resource value: 0x7f050022
+			public const int linearLayout1 = 2131034146;
 			
 			// aapt resource value: 0x7f050013
+<<<<<<< HEAD
+			public const int listView1 = 2131034131;
+			
+			// aapt resource value: 0x7f050014
+			public const int listView2 = 2131034132;
+=======
 			public const int listView2 = 2131034131;
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
 			
 			// aapt resource value: 0x7f050001
 			public const int listview1 = 2131034113;
+			
+			// aapt resource value: 0x7f050007
+			public const int login_naam = 2131034119;
 			
 			// aapt resource value: 0x7f050005
 			public const int menu_groepen = 2131034117;
@@ -136,42 +218,92 @@ namespace ScoreMore
 			// aapt resource value: 0x7f050004
 			public const int menu_vraag = 2131034116;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f050027
 			public const int multipel = 2131034151;
+=======
+<<<<<<< HEAD
+			// aapt resource value: 0x7f050024
+			public const int multipel = 2131034148;
+=======
+			// aapt resource value: 0x7f050023
+			public const int multipel = 2131034147;
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
 			
 			// aapt resource value: 0x7f050000
 			public const int naarSubsButton = 2131034112;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f050028
 			public const int open = 2131034152;
+=======
+<<<<<<< HEAD
+			// aapt resource value: 0x7f05001b
+			public const int relativeLayout1 = 2131034139;
+			
+			// aapt resource value: 0x7f050023
+			public const int singulier = 2131034147;
+=======
+<<<<<<< HEAD
+			// aapt resource value: 0x7f050025
+			public const int open = 2131034149;
+			
+			// aapt resource value: 0x7f050016
+			public const int relativeLayout1 = 2131034134;
+>>>>>>> origin/master
 			
 			// aapt resource value: 0x7f05001a
 			public const int relativeLayout1 = 2131034138;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f050026
 			public const int singulier = 2131034150;
+=======
+			// aapt resource value: 0x7f050022
+			public const int singulier = 2131034146;
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
 			
 			// aapt resource value: 0x7f050002
 			public const int textView1 = 2131034114;
 			
-			// aapt resource value: 0x7f050011
-			public const int textView2 = 2131034129;
-			
-			// aapt resource value: 0x7f050007
-			public const int textView3 = 2131034119;
+			// aapt resource value: 0x7f050012
+			public const int textView2 = 2131034130;
 			
 			// aapt resource value: 0x7f050008
-			public const int textView4 = 2131034120;
+			public const int textView3 = 2131034120;
 			
-			// aapt resource value: 0x7f05000a
-			public const int textView5 = 2131034122;
-			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f05000d
 			public const int textView6 = 2131034125;
+=======
+<<<<<<< HEAD
+			// aapt resource value: 0x7f050009
+			public const int textView4 = 2131034121;
+=======
+<<<<<<< HEAD
+			// aapt resource value: 0x7f05001c
+			public const int textview4 = 2131034140;
+			
+			// aapt resource value: 0x7f05001d
+			public const int toevoegen = 2131034141;
+			
+			// aapt resource value: 0x7f05000f
+			public const int txt_waarschuwing = 2131034127;
+=======
+			// aapt resource value: 0x7f05000d
+			public const int textView6 = 2131034125;
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
 			
 			// aapt resource value: 0x7f05000b
-			public const int textView7 = 2131034123;
+			public const int textView5 = 2131034123;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f05001f
 			public const int textview4 = 2131034143;
 			
@@ -180,9 +312,19 @@ namespace ScoreMore
 			
 			// aapt resource value: 0x7f050010
 			public const int txt_waarschuwing = 2131034128;
+=======
+			// aapt resource value: 0x7f05000e
+			public const int textView6 = 2131034126;
+>>>>>>> origin/master
 			
-			// aapt resource value: 0x7f050019
-			public const int volgendebutton = 2131034137;
+			// aapt resource value: 0x7f05000c
+			public const int textView7 = 2131034124;
+			
+			// aapt resource value: 0x7f050011
+			public const int txt_waarschuwing = 2131034129;
+			
+			// aapt resource value: 0x7f05001a
+			public const int volgendebutton = 2131034138;
 			
 			// aapt resource value: 0x7f05002a
 			public const int vraaghoofdmenu = 2131034154;

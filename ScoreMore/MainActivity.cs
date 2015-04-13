@@ -12,7 +12,7 @@ using ScoreMoreLib;
 
 namespace ScoreMore
 {
-	[Activity (Label = "Studentklasse", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity (Label = "Score-More", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		//int count = 1;
@@ -81,14 +81,17 @@ namespace ScoreMore
 				string email_value = inv_email.Text;
 				string wachtwoord_value = inv_wachtwoord.Text;
 
-				new Student(email_value, wachtwoord_value);
+				Student student1 = new Student(email_value, wachtwoord_value);
 				txt_waarschuwing.Text = String.Format("Het account is aangemaakt met de naam {0}", inv_email.Text);
 
 				// overschakelen naar mainscreen --
+				Intent activity2 = new Intent (this, typeof(MainMenuActivity));
+				activity2.PutExtra ("myData", email_value);
 
-				StartActivity(typeof(MainMenuActivity));
+				StartActivity(activity2);
 			};
 		}
+
 	}
 }
 
