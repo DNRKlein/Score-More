@@ -11,7 +11,7 @@
         p1:id="@+id/textView1"
         p1:gravity="center_horizontal"
         p1:textAlignment="center"
-        p1:height="30dp"
+        p1:height="50dp"
         p1:textColor="#ffa60a0a" />
     <TextView
         p1:text="Vraag"
@@ -43,23 +43,23 @@
         p1:text="Waar kan de informatie gevonden worden?"
         p1:layout_width="wrap_content"
         p1:layout_height="wrap_content"
-        p1:layout_below="@id/button1"
+        p1:layout_below="@+id/antwoord"
         p1:id="@+id/textView4" />
     <EditText
         p1:inputType="textMultiLine"
         p1:layout_width="wrap_content"
         p1:layout_height="wrap_content"
-        p1:layout_below="@id/textView4"
         p1:id="@+id/editText3"
         p1:text="Vul hier het boek, hoofdstuk en paragraaf in."
         p1:layout_alignParentRight="true"
-        p1:layout_alignParentLeft="true" />
+        p1:layout_alignParentLeft="true"
+        p1:layout_below="@+id/textview4" />
     <Button
         p1:text="Voeg de vraag toe aan de training."
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
         p1:layout_gravity="bottom"
-        p1:id="@+id/button2"
+        p1:id="@+id/toevoegen"
         p1:layout_marginBottom="0dp"
         p1:layout_marginEnd="0dp"
         p1:layout_alignBottom="@id/relativeLayout1"
@@ -90,5 +90,5 @@
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
         p1:layout_below="@id/editText6"
-        p1:id="@+id/button1" />
+        p1:id="@+id/antwoord" />
 </RelativeLayout>
