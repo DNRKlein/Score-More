@@ -43,6 +43,7 @@ namespace ScoreMore
 			Onderwerp onderwerp = onderwerpenLijst [position];
 			TextView textView = view.FindViewById<TextView> (Android.Resource.Id.Text1);
 			textView.Text = onderwerp.getTitel();
+			textView.SetTextSize(Android.Util.ComplexUnitType.Dip, (float) 40.0);
 
 			return view;
 		}

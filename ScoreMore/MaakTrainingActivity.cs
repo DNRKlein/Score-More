@@ -39,8 +39,6 @@ namespace ScoreMore
 
 			ListView listview = FindViewById<ListView> (Resource.Id.listview1);
 			listview.Adapter = new SimpleListItemMulptipleChoiceAdapter (this, onderwerpenList);
-
-			TextView textView = listview.FindViewById<TextView> (Android.Resource.Id.Text1);
 		}
 	}
 }
