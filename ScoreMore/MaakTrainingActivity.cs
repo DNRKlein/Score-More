@@ -17,25 +17,30 @@ namespace ScoreMore
 	[Activity]			
 	public class MaakTrainingActivity : Activity
 	{
-		private Onderwerp[] onderwerpenList;
+		private List<Onderwerp> onderwerpenList;
 
 		private Onderwerp pit_1 = new Onderwerp ("Mobile Applications", null);
 		private Onderwerp if_5 = new Onderwerp ("ICT Foundation 5", null);
+		private Onderwerp pit_2 = new Onderwerp ("Embedded Applications", null);
+		private Onderwerp if_6 = new Onderwerp ("ICT Foundation 6", null);
 
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
 			SetContentView (Resource.Layout.MaakTraining);
 
-			onderwerpenList = new Onderwerp[]{ pit_1, if_5 };
-			string[] onderwerpTitels = {onderwerpenList[0].getTitel(), onderwerpenList[1].getTitel()};
+			onderwerpenList = new List<Onderwerp>();
+			onderwerpenList.Add (pit_1);
+			onderwerpenList.Add (if_5);
+			onderwerpenList.Add (pit_2);
+			onderwerpenList.Add (if_6);
 
-			/*for(int i = 0; i < onderwerpenList.Length; i++){
-				onderwerpTitels[i] = onderwerpenList[i].getTitel();
-			}*/
+
 
 			ListView listview = FindViewById<ListView> (Resource.Id.listview1);
-			listview.Adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItemMultipleChoice, onderwerpTitels);
+			listview.Adapter = new SimpleListItemMulptipleChoiceAdapter (this, onderwerpenList);
+
+			TextView textView = listview.FindViewById<TextView> (Android.Resource.Id.Text1);
 		}
 	}
 }
