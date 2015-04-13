@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -50,8 +49,7 @@ namespace ScoreMore
 		}
 	}
 }
-
-=======
+	
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -103,4 +101,4 @@ namespace ScoreMore
 	}
 }
 
->>>>>>> 176bca71d06ef35e95007fe04580a392b9c4386a
+
