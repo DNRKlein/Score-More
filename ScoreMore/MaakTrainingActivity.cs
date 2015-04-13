@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +18,7 @@ namespace ScoreMore
 	public class MaakTrainingActivity : Activity
 	{
 		private List<Onderwerp> onderwerpenList;
+		private List<Onderwerp> checkedItems;
 
 		private Onderwerp pit_1 = new Onderwerp ("Mobile Applications", null);
 		private Onderwerp if_5 = new Onderwerp ("ICT Foundation 5", null);
@@ -35,9 +36,32 @@ namespace ScoreMore
 			onderwerpenList.Add (pit_2);
 			onderwerpenList.Add (if_6);
 
+			checkedItems = new List<Onderwerp> ();
+
 			ListView listview = FindViewById<ListView> (Resource.Id.listview1);
 			listview.Adapter = new SimpleListItemMulptipleChoiceAdapter (this, onderwerpenList);
+			listview.ChoiceMode = ChoiceMode.Multiple;
+
+			//listview.ItemClick += OnListItemClick;
+
+			//kijken of de checkedItems wordt gevuld
+			Button volgendeButton = FindViewById<Button> (Resource.Id.naarSubsButton);
+			volgendeButton.Click += delegate {
+				String text = "";
+				for(int i = 0; i < checkedItems.Count; i++){
+					text += checkedItems[i] + " ";
+				}
+
+				Toast.MakeText(this, checkedItems.Count, ToastLength.Short).Show();
+			};
 		}
+
+		/*public void OnListItemClick(object sender, AdapterView.ItemClickEventArgs e){
+			var listview = sender as ListView;
+			Onderwerp check = onderwerpenList [e.Position];
+			//Toast.MakeText (this, check.getTitel (), ToastLength.Short).Show ();
+			checkedItems.Add (check);
+		}*/
 	}
 }
 
