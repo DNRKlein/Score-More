@@ -61,6 +61,12 @@ namespace ScoreMore
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f05001a
+			public const int antwoord = 2131034138;
+			
+			// aapt resource value: 0x7f050021
+			public const int antwoord1 = 2131034145;
+			
 			// aapt resource value: 0x7f05000e
 			public const int but_registreren = 2131034126;
 			
@@ -82,17 +88,17 @@ namespace ScoreMore
 			// aapt resource value: 0x7f050019
 			public const int editText2 = 2131034137;
 			
-			// aapt resource value: 0x7f05001a
-			public const int editText3 = 2131034138;
-			
 			// aapt resource value: 0x7f05001b
-			public const int editText4 = 2131034139;
+			public const int editText3 = 2131034139;
 			
-			// aapt resource value: 0x7f05001c
-			public const int editText5 = 2131034140;
+			// aapt resource value: 0x7f05001e
+			public const int editText4 = 2131034142;
 			
-			// aapt resource value: 0x7f05001d
-			public const int editText6 = 2131034141;
+			// aapt resource value: 0x7f05001f
+			public const int editText5 = 2131034143;
+			
+			// aapt resource value: 0x7f050020
+			public const int editText6 = 2131034144;
 			
 			// aapt resource value: 0x7f05000d
 			public const int her_wachtwoord = 2131034125;
@@ -103,8 +109,8 @@ namespace ScoreMore
 			// aapt resource value: 0x7f05000b
 			public const int inv_wachtwoord = 2131034123;
 			
-			// aapt resource value: 0x7f05001e
-			public const int linearLayout1 = 2131034142;
+			// aapt resource value: 0x7f050022
+			public const int linearLayout1 = 2131034146;
 			
 			// aapt resource value: 0x7f050001
 			public const int listview1 = 2131034113;
@@ -121,17 +127,20 @@ namespace ScoreMore
 			// aapt resource value: 0x7f050003
 			public const int menu_vraag = 2131034115;
 			
-			// aapt resource value: 0x7f050020
-			public const int multipel = 2131034144;
+			// aapt resource value: 0x7f050024
+			public const int multipel = 2131034148;
 			
 			// aapt resource value: 0x7f050000
 			public const int naarSubsButton = 2131034112;
 			
+			// aapt resource value: 0x7f050025
+			public const int open = 2131034149;
+			
 			// aapt resource value: 0x7f050016
 			public const int relativeLayout1 = 2131034134;
 			
-			// aapt resource value: 0x7f05001f
-			public const int singulier = 2131034143;
+			// aapt resource value: 0x7f050023
+			public const int singulier = 2131034147;
 			
 			// aapt resource value: 0x7f050010
 			public const int textView1 = 2131034128;
@@ -154,11 +163,23 @@ namespace ScoreMore
 			// aapt resource value: 0x7f05000a
 			public const int textView7 = 2131034122;
 			
+			// aapt resource value: 0x7f05001c
+			public const int textview4 = 2131034140;
+			
+			// aapt resource value: 0x7f05001d
+			public const int toevoegen = 2131034141;
+			
 			// aapt resource value: 0x7f05000f
 			public const int txt_waarschuwing = 2131034127;
 			
 			// aapt resource value: 0x7f050015
 			public const int volgendebutton = 2131034133;
+			
+			// aapt resource value: 0x7f050027
+			public const int vraaghoofdmenu = 2131034151;
+			
+			// aapt resource value: 0x7f050026
+			public const int vraagreturn = 2131034150;
 			
 			static Id()
 			{
@@ -199,6 +220,9 @@ namespace ScoreMore
 			
 			// aapt resource value: 0x7f030008
 			public const int vraaginvoerOnderwerpkeuze = 2130903048;
+			
+			// aapt resource value: 0x7f030009
+			public const int VraaginvoerSlot = 2130903049;
 			
 			static Layout()
 			{

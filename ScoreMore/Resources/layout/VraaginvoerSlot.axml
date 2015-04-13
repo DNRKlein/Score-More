@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:text="Klik hier om nog een vraag toe te voegen."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/vraagreturn" />
+    <Button
+        android:text="Klik hier om terug te gaan naar het hoofdmenu."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/vraaghoofdmenu" />
+</LinearLayout>

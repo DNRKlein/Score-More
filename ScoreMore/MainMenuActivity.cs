@@ -16,6 +16,8 @@ namespace ScoreMore
 	[Activity]			
 	public class MainMenuActivity : Activity
 	{
+		
+
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);

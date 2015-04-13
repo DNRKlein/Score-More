@@ -50,12 +50,12 @@
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
         p1:layout_below="@id/editText3"
-        p1:id="@+id/button1" />
+        p1:id="@+id/antwoord1" />
     <TextView
         p1:text="Andere antwoorden"
         p1:layout_width="wrap_content"
         p1:layout_height="wrap_content"
-        p1:layout_below="@id/button1"
+        p1:layout_below="@id/antwoord1"
         p1:id="@+id/textView4" />
     <EditText
         p1:inputType="textMultiLine"
