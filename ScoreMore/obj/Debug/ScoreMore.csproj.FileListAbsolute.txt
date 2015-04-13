@@ -128,3 +128,4 @@ C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\maaktr
 C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\trainingfeedback.xml
 C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\R.cs.flag
 C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\uploadflags.txt
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\trainingfeedback.xml
