@@ -1,11 +1,6 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.59.101:5555" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MaakTrainingActivity.cs">
-    <Files>
-      <File FileName="MainMenuActivity.cs" Line="14" Column="20" />
-      <File FileName="MaakTrainingActivity.cs" Line="38" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="ScoreMore.ScoreMore">
   <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="19" />
   <application android:label="ScoreMore" android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="Studentklasse" android:name="scoremore.MainActivity">
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

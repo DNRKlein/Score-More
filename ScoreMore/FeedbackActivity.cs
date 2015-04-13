@@ -23,7 +23,7 @@ namespace ScoreMore
 
 			Button button_mainMenu = FindViewById<Button> (Resource.Id.but_hoofdmenu);
 
-			// Create your application here
+			// Create your application here.
 			button_mainMenu.Click += delegate {
 				StartActivity(typeof(MainMenuActivity));
 			};

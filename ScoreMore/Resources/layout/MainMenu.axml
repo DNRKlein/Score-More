@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
-        android:layout_marginBottom="72.8dp"
+        android:layout_marginBottom="32.8dp"
         android:gravity="center_horizontal"
         android:textColor="#ffa60a0a" />
     <Button
@@ -17,27 +17,34 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/menu_training"
-        android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginBottom="15.8dp"
+        android:layout_below="@+id/textView1" />
     <Button
         android:id="@+id/menu_vraag"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/menu_vraag"
-        android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginBottom="15.8dp"
+        android:layout_below="@+id/menu_training" />
     <Button
         android:id="@+id/menu_groepen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="15.8dp"
         android:text="@string/menu_groepen"
-        android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
+        android:layout_below="@+id/menu_vraag" />
     <Button
         android:id="@+id/menu_panel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="15.8dp"
         android:text="@string/menu_panel"
-        android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
-</LinearLayout>
+        android:layout_below="@+id/menu_groepen" />
+    <TextView
+        android:text="Ingelogd op: "
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/login_naam" />
+</RelativeLayout>
