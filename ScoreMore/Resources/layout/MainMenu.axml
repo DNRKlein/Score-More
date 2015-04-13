@@ -3,8 +3,6 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-<<<<<<< HEAD
-=======
     <TextView
         android:text="Hoofdmenu"
         android:textAppearance="?android:attr/textAppearanceLarge"
@@ -14,65 +12,36 @@
         android:layout_marginBottom="32.8dp"
         android:gravity="center_horizontal"
         android:textColor="#ffa60a0a" />
->>>>>>> origin/master
     <Button
         android:id="@+id/menu_training"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
-        android:layout_width="wrap_content"
-        android:text="@string/menu_training" />
-=======
         android:text="@string/menu_training"
-<<<<<<< HEAD
-        android:layout_marginBottom="15.8dp"
-        android:layout_below="@+id/textView1" />
-=======
         android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
->>>>>>> origin/master
->>>>>>> origin/master
+        android:layout_marginBottom="20dp"
+        android:layout_below="@id/textView1" />
     <Button
         android:id="@+id/menu_vraag"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
-        android:layout_width="wrap_content"
-        android:text="@string/menu_vraag" />
-=======
         android:text="@string/menu_vraag"
-<<<<<<< HEAD
-        android:layout_marginBottom="15.8dp"
-        android:layout_below="@+id/menu_training" />
-=======
         android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
->>>>>>> origin/master
->>>>>>> origin/master
+        android:layout_marginBottom="20dp"
+        android:layout_below="@id/menu_training" />
     <Button
         android:id="@+id/menu_groepen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
-        android:layout_marginBottom="15.8dp"
-        android:text="@string/menu_groepen"
-        android:layout_below="@+id/menu_vraag" />
-=======
-<<<<<<< HEAD
-        android:layout_width="wrap_content"
-        android:text="@string/menu_groepen" />
-=======
         android:text="@string/menu_groepen"
         android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
->>>>>>> origin/master
->>>>>>> origin/master
+        android:layout_marginBottom="20dp"
+        android:layout_below="@id/menu_vraag" />
     <Button
         android:id="@+id/menu_panel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
         android:layout_marginBottom="15.8dp"
+        android:layout_centerInParent="true"
         android:text="@string/menu_panel"
         android:layout_below="@+id/menu_groepen" />
     <TextView
@@ -83,14 +52,3 @@
         android:layout_alignParentBottom="true"
         android:id="@+id/login_naam" />
 </RelativeLayout>
-=======
-<<<<<<< HEAD
-        android:layout_width="wrap_content"
-        android:text="@string/menu_panel" />
-=======
-        android:text="@string/menu_panel"
-        android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp" />
->>>>>>> origin/master
-</LinearLayout>
->>>>>>> origin/master
