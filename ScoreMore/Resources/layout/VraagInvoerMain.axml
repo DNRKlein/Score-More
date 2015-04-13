@@ -38,7 +38,7 @@
         p1:text="Open vraag"
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
-        p1:id="@+id/button3"
+        p1:id="@+id/open"
         p1:enabled="false"
         p1:gravity="left" />
 </LinearLayout>
