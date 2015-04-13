@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
@@ -105,6 +108,7 @@ namespace ScoreMore
 =======
 =======
 <<<<<<< HEAD
+>>>>>>> origin/master
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -148,6 +152,8 @@ namespace ScoreMore
 		}
 	}
 }
+<<<<<<< HEAD
+=======
 
 
 ﻿
@@ -202,3 +208,4 @@ namespace ScoreMore
 >>>>>>> origin/master
 >>>>>>> 176bca71d06ef35e95007fe04580a392b9c4386a
 >>>>>>> e791bdae7693d0e5fb84db80f6baea570a5dd781
+>>>>>>> origin/master

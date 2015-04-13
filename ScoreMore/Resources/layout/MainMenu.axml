@@ -18,28 +18,79 @@
         android:layout_height="wrap_content"
         android:text="@string/menu_training"
         android:layout_centerInParent="true"
+<<<<<<< HEAD
         android:layout_marginBottom="20dp"
         android:layout_below="@id/textView1" />
+=======
+        android:layout_marginBottom="20dp" />
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> 1034925cf43dd36aec33fd285b30c017e395bd43
     <Button
         android:id="@+id/menu_vraag"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/menu_vraag"
         android:layout_centerInParent="true"
+<<<<<<< HEAD
         android:layout_marginBottom="20dp"
         android:layout_below="@id/menu_training" />
+=======
+        android:layout_marginBottom="20dp" />
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> 1034925cf43dd36aec33fd285b30c017e395bd43
     <Button
         android:id="@+id/menu_groepen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:text="@string/menu_groepen"
         android:layout_centerInParent="true"
         android:layout_marginBottom="20dp"
         android:layout_below="@id/menu_vraag" />
+=======
+<<<<<<< HEAD
+        android:text="@string/menu_groepen"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+=======
+<<<<<<< HEAD
+        android:layout_marginBottom="15.8dp"
+        android:text="@string/menu_groepen"
+        android:layout_below="@+id/menu_vraag" />
+=======
+<<<<<<< HEAD
+        android:layout_width="wrap_content"
+        android:text="@string/menu_groepen" />
+=======
+        android:text="@string/menu_groepen"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> 1034925cf43dd36aec33fd285b30c017e395bd43
     <Button
         android:id="@+id/menu_panel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        android:text="@string/menu_panel"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+</LinearLayout>
+=======
+<<<<<<< HEAD
+>>>>>>> 1034925cf43dd36aec33fd285b30c017e395bd43
         android:layout_marginBottom="15.8dp"
         android:layout_centerInParent="true"
         android:text="@string/menu_panel"
@@ -51,4 +102,20 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:id="@+id/login_naam" />
+<<<<<<< HEAD
 </RelativeLayout>
+=======
+</RelativeLayout>
+=======
+<<<<<<< HEAD
+        android:layout_width="wrap_content"
+        android:text="@string/menu_panel" />
+=======
+        android:text="@string/menu_panel"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp" />
+>>>>>>> origin/master
+</LinearLayout>
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> 1034925cf43dd36aec33fd285b30c017e395bd43
