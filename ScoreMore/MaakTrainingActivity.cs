@@ -35,8 +35,7 @@ namespace ScoreMore
 			}*/
 
 			ListView listview = FindViewById<ListView> (Resource.Id.listview1);
-			listview.Adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItem1, onderwerpTitels);
-			
+			listview.Adapter = new ArrayAdapter<String> (this, Android.Resource.Layout.SimpleListItemMultipleChoice, onderwerpTitels);
 		}
 	}
 }
