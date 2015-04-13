@@ -187,5 +187,6 @@ C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMo
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\obj\Debug\res\layout\maaktraining.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\obj\Debug\res\layout\vraaginvoeronderwerpkeuze.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\obj\Debug\res\layout\vraaginvoerslot.xml
+C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\obj\Debug\res\layout\trainingfeedback.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\obj\Debug\R.cs.flag
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\obj\Debug\uploadflags.txt
