@@ -52,6 +52,7 @@
     <Compile Include="MainMenuActivity.cs" />
     <Compile Include="VraaginvoerActivity.cs" />
     <Compile Include="MaakTrainingActivity.cs" />
+    <Compile Include="FeedbackActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
