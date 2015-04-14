@@ -1,0 +1,84 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+Conflicts:
+	ScoreMore/Resources/Resource.designer.cs
+	ScoreMore/ScoreMore.userprefs
+	ScoreMore/ScoreMoreLib/Resources/Resource.designer.cs
+	ScoreMore/ScoreMoreLib/bin/Debug/ScoreMoreLib.dll
+	ScoreMore/ScoreMoreLib/bin/Debug/ScoreMoreLib.dll.mdb
+	ScoreMore/ScoreMoreLib/bin/Debug/ScoreMoreLib.pdb
+	ScoreMore/ScoreMoreLib/obj/Debug/ScoreMoreLib.csproj.FileListAbsolute.txt
+	ScoreMore/ScoreMoreLib/obj/Debug/ScoreMoreLib.dll
+	ScoreMore/ScoreMoreLib/obj/Debug/ScoreMoreLib.pdb
+	ScoreMore/ScoreMoreLib/obj/Debug/__AndroidLibraryProjects__.zip
+	ScoreMore/bin/Debug/ScoreMore.ScoreMore-Signed.apk
+	ScoreMore/bin/Debug/ScoreMore.ScoreMore.apk
+	ScoreMore/bin/Debug/ScoreMore.dll
+	ScoreMore/bin/Debug/ScoreMore.dll.mdb
+	ScoreMore/bin/Debug/ScoreMore.pdb
+	ScoreMore/bin/Debug/ScoreMoreLib.dll
+	ScoreMore/bin/Debug/ScoreMoreLib.dll.mdb
+	ScoreMore/bin/Debug/ScoreMoreLib.pdb
+	ScoreMore/obj/Debug/ScoreMore.csproj.FileListAbsolute.txt
+	ScoreMore/obj/Debug/ScoreMore.csprojResolveAssemblyReference.cache
+	ScoreMore/obj/Debug/ScoreMore.dll
+	ScoreMore/obj/Debug/ScoreMore.pdb
+	ScoreMore/obj/Debug/android/bin/ScoreMore.ScoreMore.apk
+	ScoreMore/obj/Debug/android/bin/classes.dex
+	ScoreMore/obj/Debug/android/bin/packaged_resources
+	ScoreMore/obj/Debug/android/bin/resources_and_assemblies
+	ScoreMore/obj/Debug/assemblies/ScoreMore.dll
+	ScoreMore/obj/Debug/assemblies/ScoreMore.dll.mdb
+	ScoreMore/obj/Debug/assemblies/ScoreMoreLib.dll
+	ScoreMore/obj/Debug/assemblies/ScoreMoreLib.dll.mdb
+	ScoreMore/obj/Debug/resolved_assemblies.txt
+	ScoreMore/obj/Debug/uploadflags.txt
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 5 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   ScoreMore/MaakTrainingActivity.cs
+#	modified:   ScoreMore/MainActivity.cs
+#	modified:   ScoreMore/Resources/Resource.designer.cs
+#	modified:   ScoreMore/Resources/layout/MainMenu.axml
+#	modified:   ScoreMore/Resources/layout/registreren.axml
+#	modified:   ScoreMore/ScoreMore.userprefs
+#	modified:   ScoreMore/ScoreMoreLib/Resources/Resource.designer.cs
+#	modified:   ScoreMore/ScoreMoreLib/obj/Debug/ScoreMoreLib.csproj.FileListAbsolute.txt
+#	new file:   ScoreMore/ScoreMoreLib/obj/Debug/ScoreMoreLib.csprojResolveAssemblyReference.cache
+#	modified:   ScoreMore/SimpleListItemMulptipleChoiceAdapter.cs
+#	modified:   ScoreMore/VraagInvoer1Activity.cs
+#	modified:   ScoreMore/VraagInvoer2Activity.cs
+#	modified:   ScoreMore/VraagInvoerSlotActivity.cs
+#	modified:   ScoreMore/obj/Debug/ScoreMore.csproj.FileListAbsolute.txt
+#	modified:   ScoreMore/obj/Debug/android/AndroidManifest.xml
+#	modified:   ScoreMore/obj/Debug/android/bin/mono.android.jar
+#	modified:   ScoreMore/obj/Debug/assemblies/Mono.Android.dll
+#	modified:   ScoreMore/obj/Debug/assemblies/Mono.Android.dll.mdb
+#	modified:   ScoreMore/obj/Debug/assemblies/System.Core.dll
+#	modified:   ScoreMore/obj/Debug/assemblies/System.Core.dll.mdb
+#	modified:   ScoreMore/obj/Debug/assemblies/System.Xml.dll
+#	modified:   ScoreMore/obj/Debug/assemblies/System.Xml.dll.mdb
+#	modified:   ScoreMore/obj/Debug/assemblies/System.dll
+#	modified:   ScoreMore/obj/Debug/assemblies/System.dll.mdb
+#	modified:   ScoreMore/obj/Debug/assemblies/mscorlib.dll
+#	modified:   ScoreMore/obj/Debug/assemblies/mscorlib.dll.mdb
+#	modified:   ScoreMore/obj/Debug/res/layout/mainmenu.xml
+#	modified:   ScoreMore/obj/Debug/res/layout/registreren.xml
+#	modified:   ScoreMore/obj/Debug/resolved_assemblies.txt
+#	modified:   ScoreMore/obj/Debug/uploadflags.txt
+#
+

@@ -4,7 +4,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
     <TextView
-        android:text="Wat is de hoofdstad van Amsterdam?"
+        android:text="Wat is de hoofdstad van Nederland?"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -29,9 +29,4 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button4" />
-    <Button
-        android:text="Volgende"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/volgendebutton" />
 </LinearLayout>
