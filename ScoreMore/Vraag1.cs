@@ -100,12 +100,12 @@ namespace ScoreMore
 				if (Math.Abs (verschilX) > swipe_grens && Math.Abs (velocityX) > swipe_snelheid_grens) {
 					if (verschilX > 0) {
 						String nu = "Swipe Rechts";
-						Toast.MakeText (this, nu, ToastLength.Long).Show ();
+						Toast.MakeText (this, nu, ToastLength.Short).Show ();
 
 						return true;
 					} else {
 						String nu = "Swipe Links";
-						Toast.MakeText (this, nu, ToastLength.Long).Show ();
+						Toast.MakeText (this, nu, ToastLength.Short).Show ();
 						return false;
 
 					}

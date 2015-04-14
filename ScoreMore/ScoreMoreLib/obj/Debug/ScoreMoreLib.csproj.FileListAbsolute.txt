@@ -64,6 +64,19 @@ C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMo
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
 C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
+<<<<<<< HEAD
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.pdb
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll.mdb
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib.apk
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib-Signed.apk
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.dll
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.pdb
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\android\bin\ScoreMoreLib.ScoreMoreLib.apk
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
+=======
 C:\Users\Mart\Zuyd\2014-2015\Kwartiel 3, leerjaar 2\PIT 1\Casus\Score-More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
 C:\Users\Mart\Zuyd\2014-2015\Kwartiel 3, leerjaar 2\PIT 1\Casus\Score-More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.pdb
 C:\Users\Mart\Zuyd\2014-2015\Kwartiel 3, leerjaar 2\PIT 1\Casus\Score-More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll.mdb
@@ -86,4 +99,8 @@ C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMo
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
+<<<<<<< HEAD
 C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master

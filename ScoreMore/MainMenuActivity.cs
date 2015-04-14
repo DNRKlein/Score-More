@@ -47,7 +47,7 @@ namespace ScoreMore
 			};
 
 			button_menuvraag.Click += delegate {
-				StartActivity (typeof(VraaginvoerActivity));
+				StartActivity (typeof(VraagInvoerOnderwerpKeuzeActivity));
 			};
 
 		}

@@ -22,7 +22,7 @@ namespace ScoreMore
 
 			SetContentView (Resource.Layout.Vraaginvoer1);
 
-			// Create your application here
+			// Meerkeuzevraag met 1 goed antwoord
 
 //			Button button_Antwoord = FindViewById<Button> (Resource.Id.antwoord);
 			Button button_Toevoegen = FindViewById<Button> (Resource.Id.toevoegen);
