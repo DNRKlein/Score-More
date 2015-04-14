@@ -18,6 +18,7 @@ namespace ScoreMore
 	[Activity (Label = "Vraag1")]			
 	public class Vraag1 : Activity, GestureDetector.IOnGestureListener
 	{
+		private TextView vraag;
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
@@ -32,9 +33,7 @@ namespace ScoreMore
 			Button button2 = FindViewById<Button> (Resource.Id.button2);
 			Button button3 = FindViewById<Button> (Resource.Id.button3);
 			Button button4 = FindViewById<Button> (Resource.Id.button4);
-			Button volgende = FindViewById<Button> (Resource.Id.volgendebutton);
-			TextView nee = FindViewById<TextView> (Resource.Id.textView2);
-			nee.Text = "Neeeeeeeee";
+			vraag = FindViewById<TextView> (Resource.Id.textView1);
 			gestureDetector = new GestureDetector (this);
 
 			//			GestureDetector.SimpleOnGestureListener listener = new MyGestureListener();
@@ -80,16 +79,16 @@ namespace ScoreMore
 				button3.SetOnClickListener(null);
 				button4.SetOnClickListener(null);
 			};
-
-			volgende.Click += delegate {
-				StartActivity(typeof(VolgendeActivity));
-			};
-
+				
 
 		}
 		private GestureDetector gestureDetector;
 		private static int swipe_grens = 100;
 		private static int swipe_snelheid_grens = 100;
+		private List<String> pagina = new List<String>{"Wat is de hoofdstad van Nederland?","Wat vindt u van deze app?"};
+		private int i = 0;
+
+
 
 		public bool OnFling(MotionEvent e1,MotionEvent e2, float velocityX, float velocityY)
 		{
@@ -101,11 +100,18 @@ namespace ScoreMore
 					if (verschilX > 0) {
 						String nu = "Swipe Rechts";
 						Toast.MakeText (this, nu, ToastLength.Short).Show ();
-
+						if (i > 0 && i < pagina.Count){
+							i = i - 1; 
+							vraag.Text = pagina[i];
+						}
 						return true;
 					} else {
 						String nu = "Swipe Links";
 						Toast.MakeText (this, nu, ToastLength.Short).Show ();
+						if (i > -1 && i < pagina.Count - 1) {
+							i = i + 1;
+							vraag.Text = pagina [i];
+						}
 						return false;
 
 					}
