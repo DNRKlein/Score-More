@@ -1,18 +1,15 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VraagInvoer2Activity.cs">
     <Files>
-      <File FileName="MaakTrainingActivity.cs" Line="1" Column="1" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleListItemMulptipleChoiceAdapter.cs">
-    <Files>
-      <File FileName="MainMenuActivity.cs" Line="1" Column="1" />
-      <File FileName="MaakTrainingActivity.cs" Line="1" Column="1" />
-      <File FileName="SimpleListItemMulptipleChoiceAdapter.cs" Line="104" Column="1" />
+      <File FileName="MainActivity.cs" Line="1" Column="1" />
+      <File FileName="VraaginvoerActivity.cs" Line="1" Column="1" />
+      <File FileName="VraagInvoer2Activity.cs" Line="30" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ScoreMore AndroidDesignerPreferredDevice="Nexus 4" />
 </Properties>
