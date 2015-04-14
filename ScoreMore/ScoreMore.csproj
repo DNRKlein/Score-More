@@ -54,11 +54,12 @@
     <Compile Include="MainMenuActivity.cs" />
     <Compile Include="VraaginvoerActivity.cs" />
     <Compile Include="MaakTrainingActivity.cs" />
-    <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="SimpleListItemMulptipleChoiceAdapter.cs" />
     <Compile Include="VraagInvoer1Activity.cs" />
     <Compile Include="VraagInvoer2Activity.cs" />
     <Compile Include="VraagInvoerSlotActivity.cs" />
+    <Compile Include="VraagInvoerOnderwerpKeuzeActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -83,6 +84,7 @@
     <AndroidResource Include="Resources\layout\vraaginvoerOnderwerpkeuze.axml" />
     <AndroidResource Include="Resources\layout\VraaginvoerSlot.axml" />
     <AndroidResource Include="Resources\layout\trainingFeedback.axml" />
+    <AndroidResource Include="Resources\values\VraagInvoerDropdownstrings.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
