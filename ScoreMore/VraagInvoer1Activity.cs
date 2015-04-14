@@ -28,7 +28,7 @@ namespace ScoreMore
 			Button button_Toevoegen = FindViewById<Button> (Resource.Id.toevoegen);
 
 //			button_Antwoord.Click += delegate {
-//				StartActivity (typeof(VraaginvoerActivity));
+//				new EditText
 //			};
 
 			button_Toevoegen.Click += delegate {

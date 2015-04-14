@@ -46,22 +46,19 @@ namespace ScoreMore
 
 			//kijken of de checkedItems wordt gevuld
 			Button volgendeButton = FindViewById<Button> (Resource.Id.naarSubsButton);
-			volgendeButton.Click += delegate {
-				String text = "";
-				for(int i = 0; i < checkedItems.Count; i++){
-					text += checkedItems[i] + " ";
-				}
 
-				Toast.MakeText(this, checkedItems.Count, ToastLength.Short).Show();
+			volgendeButton.Click += delegate {
+				Toast.MakeText(this, "asdasd", ToastLength.Short).Show();
 			};
 		}
 
-		/*public void OnListItemClick(object sender, AdapterView.ItemClickEventArgs e){
-			var listview = sender as ListView;
-			Onderwerp check = onderwerpenList [e.Position];
-			//Toast.MakeText (this, check.getTitel (), ToastLength.Short).Show ();
-			checkedItems.Add (check);
-		}*/
+
+//		public void OnListItemClick(object sender, AdapterView.ItemClickEventArgs e){
+//			var listview = sender as ListView;
+//			Onderwerp check = onderwerpenList [e.Position];
+//			//Toast.MakeText (this, check.getTitel (), ToastLength.Short).Show ();
+//			checkedItems.Add (check);
+//		}
 	}
 }
 
