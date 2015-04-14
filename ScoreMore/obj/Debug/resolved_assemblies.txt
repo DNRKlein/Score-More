@@ -1,17 +1,2 @@
-<<<<<<< HEAD
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\bin\Debug\ScoreMore.dll
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
-=======
-<<<<<<< HEAD
-C:\Users\rik\Documents\Score-More\ScoreMore\bin\Debug\ScoreMore.dll
-C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
-=======
-<<<<<<< HEAD
-C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\bin\Debug\ScoreMore.dll
-C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
-=======
-C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.dll
-C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
->>>>>>> origin/master
->>>>>>> 4af24d79c5a6433b49de9bafffe95cf3ba9f6025
->>>>>>> origin/master
