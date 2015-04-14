@@ -33,6 +33,7 @@ namespace ScoreMoreLib
 			}
 		}
 
+
 		/*Swipe
 		private void Grid_ManipulationStarted_1(object sender, ManipulationStartedRoutedEventArgs e)
 		{
