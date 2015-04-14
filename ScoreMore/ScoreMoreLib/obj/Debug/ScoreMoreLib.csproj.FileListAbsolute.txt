@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.pdb
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll.mdb
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib.apk
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib-Signed.apk
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.dll
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.pdb
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\android\bin\ScoreMoreLib.ScoreMoreLib.apk
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
+=======
+>>>>>>> origin/master
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.pdb
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll.mdb
@@ -9,3 +26,20 @@ C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMo
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
+<<<<<<< HEAD
+=======
+>>>>>>> 4af24d79c5a6433b49de9bafffe95cf3ba9f6025
+=======
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll.mdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.ScoreMoreLib-Signed.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\android\bin\ScoreMoreLib.ScoreMoreLib.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
+>>>>>>> origin/master
+>>>>>>> origin/master
