@@ -50,10 +50,7 @@ namespace ScoreMore
 				StartActivity (typeof(VraagInvoerOnderwerpKeuzeActivity));
 			};
 
-			button_menupanel.Click += delegate {
-				StartActivity (typeof(Vraag1));
 
-			};
 
 		}
 

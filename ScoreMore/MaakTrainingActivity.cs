@@ -48,7 +48,7 @@ namespace ScoreMore
 			Button volgendeButton = FindViewById<Button> (Resource.Id.naarSubsButton);
 
 			volgendeButton.Click += delegate {
-				Toast.MakeText(this, "asdasd", ToastLength.Short).Show();
+				StartActivity (typeof(Vraag1));
 			};
 		}
 
