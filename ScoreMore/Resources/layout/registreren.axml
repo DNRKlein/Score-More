@@ -27,7 +27,8 @@
         android:id="@+id/inv_email"
         android:gravity="center_horizontal"
         android:hint="Klik om te typen"
-        android:maxLength="25" />
+        android:maxLength="25"
+        android:typeface="monospace" />
     <TextView
         android:text="Wachtwoord"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -51,7 +52,8 @@
         android:hint="Klik om te typen"
         android:gravity="center_horizontal"
         android:password="true"
-        android:maxLength="15" />
+        android:maxLength="15"
+        android:typeface="normal" />
     <TextView
         android:text="Wachtwoord (herhalen)"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -74,8 +76,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/but_registreren"
         android:gravity="center"
-        android:textAlignment="textStart"
-        android:phoneNumber="true" />
+        android:textAlignment="textStart" />
     <TextView
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:layout_width="match_parent"

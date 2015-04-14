@@ -86,3 +86,4 @@ C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMo
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\res\values\strings.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\R.cs.flag
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\ScoreMoreLib\obj\Debug\uploadflags.txt
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\ScoreMoreLib\obj\Debug\ScoreMoreLib.csprojResolveAssemblyReference.cache
