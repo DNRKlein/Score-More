@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 YT910LXQD2
 YT910LXQD2
-=======
-0123456789ABCDEF
-0123456789ABCDEF
->>>>>>> origin/master
