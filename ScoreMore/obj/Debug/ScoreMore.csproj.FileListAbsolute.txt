@@ -30,3 +30,12 @@ C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMo
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\obj\Debug\res\values\vraaginvoerdropdownstrings.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\obj\Debug\R.cs.flag
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\obj\Debug\uploadflags.txt
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoeronderwerpkeuze.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoerslot.xml
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
