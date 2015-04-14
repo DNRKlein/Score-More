@@ -1,4 +1,3 @@
-ScoreMore.MainActivity;scoremore.MainActivity
 ScoreMore.VolgendeActivity;scoremore.VolgendeActivity
 ScoreMore.Vraag1;scoremore.Vraag1
 ScoreMore.MainMenuActivity;scoremore.MainMenuActivity
@@ -9,3 +8,4 @@ ScoreMore.VraagInvoer1Activity;scoremore.VraagInvoer1Activity
 ScoreMore.VraagInvoer2Activity;scoremore.VraagInvoer2Activity
 ScoreMore.VraagInvoerSlotActivity;scoremore.VraagInvoerSlotActivity
 ScoreMore.VraagInvoerOnderwerpKeuzeActivity;scoremore.VraagInvoerOnderwerpKeuzeActivity
+ScoreMore.RegistreerActivity;scoremore.RegistreerActivity

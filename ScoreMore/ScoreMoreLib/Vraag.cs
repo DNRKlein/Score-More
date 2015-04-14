@@ -45,6 +45,9 @@ namespace ScoreMoreLib
 		}
 
 
+=======
+>>>>>>> origin/master
+
 
 		/*Swipe
 		private void Grid_ManipulationStarted_1(object sender, ManipulationStartedRoutedEventArgs e)
@@ -67,7 +70,10 @@ namespace ScoreMoreLib
 			}
 		}*/
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 	}
 }
 

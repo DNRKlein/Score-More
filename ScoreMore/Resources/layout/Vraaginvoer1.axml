@@ -25,7 +25,7 @@
         p1:layout_height="wrap_content"
         p1:layout_below="@id/textView2"
         p1:id="@+id/editText1"
-        p1:text="Vul hier uw vraag in." />
+        p1:hint="Vul hier uw vraag in." />
     <TextView
         p1:text="Antwoord"
         p1:layout_width="wrap_content"
@@ -38,7 +38,7 @@
         p1:layout_height="wrap_content"
         p1:layout_below="@id/textView3"
         p1:id="@+id/editText2"
-        p1:text="Vul hier het goede antwoord in." />
+        p1:hint="Vul hier het goede antwoord in." />
     <TextView
         p1:text="Waar kan de informatie gevonden worden?"
         p1:layout_width="wrap_content"
@@ -50,10 +50,10 @@
         p1:layout_width="wrap_content"
         p1:layout_height="wrap_content"
         p1:id="@+id/editText3"
-        p1:text="Vul hier het boek, hoofdstuk en paragraaf in."
         p1:layout_alignParentRight="true"
         p1:layout_alignParentLeft="true"
-        p1:layout_below="@+id/textView4" />
+        p1:layout_below="@+id/textView4"
+        p1:hint="Vul hier het boek, hoofdstuk en paragraaf in." />
     <Button
         p1:text="Voeg de vraag toe aan de training."
         p1:layout_width="match_parent"
@@ -70,21 +70,21 @@
         p1:layout_height="wrap_content"
         p1:layout_below="@id/editText2"
         p1:id="@+id/editText4"
-        p1:text="Vul hier een antwoord in." />
+        p1:hint="Vul hier een antwoord in." />
     <EditText
         p1:inputType="textMultiLine"
         p1:layout_width="wrap_content"
         p1:layout_height="wrap_content"
         p1:layout_below="@id/editText4"
         p1:id="@+id/editText5"
-        p1:text="Vul hier een antwoord in." />
+        p1:hint="Vul hier een antwoord in." />
     <EditText
         p1:inputType="textMultiLine"
         p1:layout_width="wrap_content"
         p1:layout_height="wrap_content"
         p1:layout_below="@id/editText5"
         p1:id="@+id/editText6"
-        p1:text="Vul hier een antwoord in." />
+        p1:hint="Vul hier een antwoord in." />
     <Button
         p1:text="Voeg een antwoordmogelijkheid toe."
         p1:layout_width="match_parent"
