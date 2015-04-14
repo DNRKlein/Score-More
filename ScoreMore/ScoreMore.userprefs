@@ -1,20 +1,9 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
-<<<<<<< HEAD
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ScoreMoreLib\Vraag.cs">
     <Files>
-      <File FileName="ScoreMoreLib\Resources\Resource.designer.cs" Line="5" Column="38" />
-      <File FileName="ScoreMoreLib\Vraag.cs" Line="56" Column="6" />
-=======
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.YT910LXQD2" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RegistreerActivity.cs">
-    <Files>
-      <File FileName="MainMenuActivity.cs" Line="1" Column="1" />
       <File FileName="ScoreMoreLib\Resources\Resource.designer.cs" Line="1" Column="1" />
-      <File FileName="ScoreMoreLib\Vraag.cs" Line="21" Column="11" />
-      <File FileName="..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="3963" Column="66" />
-      <File FileName="RegistreerActivity.cs" Line="22" Column="51" />
->>>>>>> origin/master
+      <File FileName="ScoreMoreLib\Vraag.cs" Line="34" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

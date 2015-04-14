@@ -31,10 +31,7 @@ namespace ScoreMoreLib
 
 			}
 		}
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 
 
 		/*Swipe
