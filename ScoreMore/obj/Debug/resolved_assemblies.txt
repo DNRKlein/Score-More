@@ -1,2 +1,2 @@
-C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMore.dll
-C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
+C:\Users\rik\Documents\Score-More\ScoreMore\bin\Debug\ScoreMore.dll
+C:\Users\rik\Documents\Score-More\ScoreMore\ScoreMoreLib\bin\Debug\ScoreMoreLib.dll
