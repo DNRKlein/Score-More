@@ -7,7 +7,6 @@ namespace ScoreMoreLib
 	{
 		private int vraagid;
 		private VraagType vraagType;
-		private Point initialpoint;
 
 		public Vraag (int vraagid)
 		{
@@ -32,28 +31,6 @@ namespace ScoreMoreLib
 
 			}
 		}
-
-		/*Swipe
-		private void Grid_ManipulationStarted_1(object sender, ManipulationStartedRoutedEventArgs e)
-		{
-			initialpoint = e.Position;
-		}
-		//Swipe
-		private void Grid_ManipulationDelta_1(object sender, ManipulationDeltaRoutedEventArgs e)
-		{
-			if (e.IsInertial) {
-				Point currentpoint = e.Position;
-				if (currentpoint.X - initialpoint.X >= 500) {//500 is the threshold value, where you want to trigger the swipe right event
-					System.Diagnostics.Debug.WriteLine ("Swipe Right");
-					e.Complete ();
-				}
-				if (currentpoint.X - initialpoint.X <= -500) {
-					System.Diagnostics.Debug.WriteLine ("Swipe Left");
-					e.Complete ();
-				}
-			}
-		}*/
-
 	}
 }
 
