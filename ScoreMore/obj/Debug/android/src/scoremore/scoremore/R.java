@@ -18,25 +18,25 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int antwoord=0x7f060020;
-        public static final int antwoord2=0x7f060027;
+        public static final int antwoord=0x7f06001f;
+        public static final int antwoord2=0x7f060026;
         public static final int but_hoofdmenu=0x7f060017;
         public static final int but_registreren=0x7f060012;
         public static final int button1=0x7f060018;
         public static final int button2=0x7f060019;
         public static final int button3=0x7f06001a;
         public static final int button4=0x7f06001b;
-        public static final int editText1=0x7f06001e;
-        public static final int editText2=0x7f06001f;
-        public static final int editText3=0x7f060021;
-        public static final int editText4=0x7f060023;
-        public static final int editText5=0x7f060024;
-        public static final int editText6=0x7f060025;
-        public static final int goede_antwoord2=0x7f060026;
+        public static final int editText1=0x7f06001d;
+        public static final int editText2=0x7f06001e;
+        public static final int editText3=0x7f060020;
+        public static final int editText4=0x7f060022;
+        public static final int editText5=0x7f060023;
+        public static final int editText6=0x7f060024;
+        public static final int goede_antwoord2=0x7f060025;
         public static final int her_wachtwoord=0x7f060011;
         public static final int inv_email=0x7f06000c;
         public static final int inv_wachtwoord=0x7f06000f;
-        public static final int linearLayout1=0x7f060029;
+        public static final int linearLayout1=0x7f060028;
         public static final int listView1=0x7f060015;
         public static final int listView2=0x7f060016;
         public static final int listview1=0x7f060001;
@@ -47,13 +47,13 @@ public final class R {
         public static final int menu_panel=0x7f060006;
         public static final int menu_training=0x7f060003;
         public static final int menu_vraag=0x7f060004;
-        public static final int multipel=0x7f06002b;
+        public static final int multipel=0x7f06002a;
         public static final int naarSubsButton=0x7f060000;
-        public static final int open=0x7f06002c;
-        public static final int relativeLayout1=0x7f06001d;
-        public static final int singulier=0x7f06002a;
-        public static final int spinner=0x7f06002d;
-        public static final int spinner1=0x7f06002e;
+        public static final int open=0x7f06002b;
+        public static final int relativeLayout1=0x7f06001c;
+        public static final int singulier=0x7f060029;
+        public static final int spinner=0x7f06002c;
+        public static final int spinner1=0x7f06002d;
         public static final int textView1=0x7f060002;
         public static final int textView2=0x7f060014;
         public static final int textView3=0x7f06000a;
@@ -61,13 +61,12 @@ public final class R {
         public static final int textView5=0x7f06000d;
         public static final int textView6=0x7f060010;
         public static final int textView7=0x7f06000e;
-        public static final int toevoegen=0x7f060022;
-        public static final int toevoegen2=0x7f060028;
+        public static final int toevoegen=0x7f060021;
+        public static final int toevoegen2=0x7f060027;
         public static final int txt_waarschuwing=0x7f060013;
-        public static final int volgendebutton=0x7f06001c;
-        public static final int vraaghoofdmenu=0x7f060031;
-        public static final int vraaginvoervolgende=0x7f06002f;
-        public static final int vraagreturn=0x7f060030;
+        public static final int vraaghoofdmenu=0x7f060030;
+        public static final int vraaginvoervolgende=0x7f06002e;
+        public static final int vraagreturn=0x7f06002f;
     }
     public static final class layout {
         public static final int maaktraining=0x7f030000;
