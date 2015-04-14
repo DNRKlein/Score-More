@@ -14,7 +14,7 @@ using ScoreMoreLib;
 
 namespace ScoreMore
 {
-	[Activity]			
+	[Activity (Label = "Score-More", Icon = "@drawable/icon")]
 	public class MaakTrainingActivity : Activity
 	{
 		private List<Onderwerp> onderwerpenList;

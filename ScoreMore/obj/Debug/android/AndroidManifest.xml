@@ -13,7 +13,7 @@
     <activity android:name="scoremore.MainMenuActivity" />
     <activity android:label="Score-More" android:name="scoremore.VraaginvoerActivity" />
     <activity android:name="scoremore.MaakTrainingActivity" />
-    <activity android:label="Score-More" android:name="scoremore.VraagInvoer1Activity" />
+    <activity android:label="ScoreMore" android:name="scoremore.VraagInvoer1Activity" />
     <activity android:label="ScoreMore" android:name="scoremore.VraagInvoer2Activity" />
     <activity android:label="ScoreMore" android:name="scoremore.VraagInvoerSlotActivity" />
     <activity android:label="ScoreMore" android:name="scoremore.VraagInvoerOnderwerpKeuzeActivity" />

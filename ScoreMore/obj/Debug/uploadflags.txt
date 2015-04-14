@@ -1,22 +1,2 @@
-<<<<<<< HEAD
-0123456789ABCDEF
-0123456789ABCDEF
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-7N2STX144A023155
-7N2STX144A023155
-=======
-<<<<<<< HEAD
 YT910LXQD2
 YT910LXQD2
-=======
-0123456789ABCDEF
-0123456789ABCDEF
->>>>>>> origin/master
->>>>>>> origin/master
-=======
-YT910LXQD2
-YT910LXQD2
->>>>>>> origin/master
->>>>>>> origin/master
