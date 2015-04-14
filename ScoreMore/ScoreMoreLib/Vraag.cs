@@ -31,7 +31,6 @@ namespace ScoreMoreLib
 
 			}
 		}
-<<<<<<< HEAD
 
 
 		/*Swipe
@@ -55,8 +54,6 @@ namespace ScoreMoreLib
 			}
 		}*/
 
-=======
->>>>>>> origin/master
 	}
 }
 
