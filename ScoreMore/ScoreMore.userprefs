@@ -1,4 +1,5 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
   <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets">
     <Files>
@@ -6,11 +7,18 @@
       <File FileName="ScoreMoreLib\Vraag.cs" Line="1" Column="1" />
       <File FileName="ScoreMoreLib\Resources\Resource.designer.cs" Line="13" Column="1" />
       <File FileName="..\..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="3959" Column="5" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.YT910LXQD2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets">
+    <Files>
+      <File FileName="ScoreMoreLib\Resources\Resource.designer.cs" Line="5" Column="38" />
+      <File FileName="ScoreMoreLib\Vraag.cs" Line="9" Column="21" />
+      <File FileName="..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="3968" Column="40" />
+>>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ScoreMore AndroidDesignerPreferredDevice="Nexus 4" />
 </Properties>

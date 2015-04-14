@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace ScoreMore
 {
-	[Activity (Label = "VolgendeActivity")]			
+	[Activity (Label = "Score-More", Icon = "@drawable/icon")]		
 	public class VolgendeActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)

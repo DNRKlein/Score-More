@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace ScoreMore
 {
-	[Activity]			
+	[Activity (Label = "Score-More", Icon = "@drawable/icon")]		
 	public class MainMenuActivity : Activity
 	{
 		

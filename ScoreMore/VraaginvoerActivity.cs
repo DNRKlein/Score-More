@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace ScoreMore
 {
-	[Activity (Label = "Score-More")]			
+	[Activity (Label = "Score-More", Icon = "@drawable/icon")]		
 	public class VraaginvoerActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
