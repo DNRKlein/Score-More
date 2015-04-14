@@ -7,7 +7,6 @@ namespace ScoreMoreLib
 	{
 		private int vraagid;
 		private VraagType vraagType;
-		private Point initialpoint;
 
 		public Vraag (int vraagid)
 		{
@@ -32,6 +31,7 @@ namespace ScoreMoreLib
 
 			}
 		}
+<<<<<<< HEAD
 
 
 		/*Swipe
@@ -55,6 +55,8 @@ namespace ScoreMoreLib
 			}
 		}*/
 
+=======
+>>>>>>> origin/master
 	}
 }
 
