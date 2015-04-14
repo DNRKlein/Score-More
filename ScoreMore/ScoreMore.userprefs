@@ -1,11 +1,27 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.YT910LXQD2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets">
+    <Files>
+      <File FileName="MaakTrainingActivity.cs" Line="1" Column="1" />
+      <File FileName="MainMenuActivity.cs" Line="1" Column="1" />
+      <File FileName="SimpleListItemMulptipleChoiceAdapter.cs" Line="1" Column="1" />
+      <File FileName="MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Vraag1.cs" Line="1" Column="1" />
+      <File FileName="Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="ScoreMoreLib\Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="3959" Column="5" />
+=======
+>>>>>>> origin/master
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="ScoreMoreLib\Training.cs" Line="1" Column="1" />
       <File FileName="Vraag1.cs" Line="112" Column="18" />
       <File FileName="MainMenuActivity.cs" Line="57" Column="4" />
+<<<<<<< HEAD
 =======
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
   <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets">
@@ -14,6 +30,8 @@
       <File FileName="VraagInvoer1Activity.cs" Line="1" Column="1" />
       <File FileName="Resources\values\VraagInvoerDropdownstrings.xml" Line="1" Column="1" />
       <File FileName="..\..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="3973" Column="61" />
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
