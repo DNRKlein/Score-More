@@ -9,7 +9,11 @@
 =======
   <MonoDevelop.Ide.Workbench ActiveDocument="Vraag1.cs">
     <Files>
+<<<<<<< HEAD
+      <File FileName="Vraag1.cs" Line="115" Column="5" />
+=======
       <File FileName="Vraag1.cs" Line="166" Column="1" />
+>>>>>>> origin/master
 >>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
