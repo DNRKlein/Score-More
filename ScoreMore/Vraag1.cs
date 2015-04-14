@@ -15,7 +15,7 @@ using Android.Gestures;
 
 namespace ScoreMore
 {
-	[Activity (Label = "Score-More", Icon = "@drawable/icon")]	
+	[Activity (Label = "Score-More", Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]	
 	public class Vraag1 : Activity, GestureDetector.IOnGestureListener
 	{
 		private TextView vraag;

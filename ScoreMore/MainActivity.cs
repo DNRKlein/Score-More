@@ -12,7 +12,7 @@ using ScoreMoreLib;
 
 namespace ScoreMore
 {
-	[Activity (Label = "Score-More", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity (Label = "Score-More", MainLauncher = true, Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
