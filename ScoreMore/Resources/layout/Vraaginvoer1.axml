@@ -53,7 +53,7 @@
         p1:text="Vul hier het boek, hoofdstuk en paragraaf in."
         p1:layout_alignParentRight="true"
         p1:layout_alignParentLeft="true"
-        p1:layout_below="@+id/textview4" />
+        p1:layout_below="@+id/textView4" />
     <Button
         p1:text="Voeg de vraag toe aan de training."
         p1:layout_width="match_parent"
