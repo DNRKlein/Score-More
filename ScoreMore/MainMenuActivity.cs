@@ -23,7 +23,7 @@ namespace ScoreMore
 			base.OnCreate (bundle);
 			SetContentView (Resource.Layout.MainMenu);
 
-			string text = Intent.GetStringExtra ("myData") ?? "Data not available";
+			string text = Intent.GetStringExtra ("myData") ?? "Accountnaam";
 
 
 			//Button naar training starten scherm
