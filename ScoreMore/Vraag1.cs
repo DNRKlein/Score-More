@@ -232,6 +232,10 @@ namespace ScoreMore
 			return false;
 		}
 
+		public override void OnBackPressed() {
+			StartActivity (typeof(MainMenuActivity));
+		}
+
 
 	
 
