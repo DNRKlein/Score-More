@@ -19,15 +19,17 @@
         android:text="@string/menu_training"
         android:layout_centerInParent="true"
         android:layout_marginBottom="20dp"
-        android:layout_below="@id/textView1" />
+        android:layout_below="@id/textView1"
+        android:textSize="23dp" />
     <Button
         android:id="@+id/menu_vraag"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/menu_vraag"
         android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp"
-        android:layout_below="@id/menu_training" />
+        android:layout_marginBottom="50dp"
+        android:layout_below="@id/menu_training"
+        android:textSize="23dp" />
     <Button
         android:id="@+id/menu_groepen"
         android:layout_width="match_parent"
@@ -35,7 +37,8 @@
         android:text="@string/menu_groepen"
         android:layout_centerInParent="true"
         android:layout_marginBottom="20dp"
-        android:layout_below="@id/menu_vraag" />
+        android:layout_below="@id/menu_vraag"
+        android:textSize="23dp" />
     <Button
         android:id="@+id/menu_panel"
         android:layout_width="match_parent"
@@ -43,7 +46,26 @@
         android:layout_marginBottom="15.8dp"
         android:layout_centerInParent="true"
         android:text="@string/menu_panel"
-        android:layout_below="@+id/menu_groepen" />
+        android:layout_below="@+id/menu_groepen"
+        android:textSize="23dp" />
+    <Button
+        android:id="@+id/menu_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15.8dp"
+        android:layout_centerInParent="true"
+        android:text="Mijn feedback"
+        android:layout_below="@+id/menu_panel"
+        android:textSize="23dp" />
+    <Button
+        android:id="@+id/menu_mijntrainingen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15.8dp"
+        android:layout_centerInParent="true"
+        android:text="Mijn trainingen"
+        android:layout_below="@+id/menu_feedback"
+        android:textSize="23dp" />
     <TextView
         android:text="Ingelogd op: "
         android:textAppearance="?android:attr/textAppearanceSmall"

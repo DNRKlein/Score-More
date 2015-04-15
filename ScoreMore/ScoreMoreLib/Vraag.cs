@@ -1,19 +1,30 @@
 ﻿using System;
 using Android.Graphics;
+using System.Collections.Generic;
 
 namespace ScoreMoreLib
 {
 	public class Vraag
 	{
-		private int vraagid;
 		private VraagType vraagType;
-		private Point initialpoint;
+		private string vraag;
+		private string[] antwoorden;
 
-		public Vraag (int vraagid)
+		public Vraag (string vraag, string[] antwoorden)
 		{
-			this.vraagid = vraagid;
-		}
+			this.vraag = vraag;
+			this.antwoorden = antwoorden;
+
 			
+		}
+
+		public string GetVraag(){
+			return vraag;
+		}
+
+		public string[] GetAntwoorden(){
+			return antwoorden;
+		}
 
 		public void Invoer(){
 			switch (vraagType) {
@@ -32,6 +43,12 @@ namespace ScoreMoreLib
 
 			}
 		}
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
+
+
 
 		/*Swipe
 		private void Grid_ManipulationStarted_1(object sender, ManipulationStartedRoutedEventArgs e)
@@ -54,6 +71,10 @@ namespace ScoreMoreLib
 			}
 		}*/
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> origin/master
 	}
 }
 

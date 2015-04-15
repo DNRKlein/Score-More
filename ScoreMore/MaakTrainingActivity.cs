@@ -14,7 +14,7 @@ using ScoreMoreLib;
 
 namespace ScoreMore
 {
-	[Activity]			
+	[Activity (Label = "Score-More", Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]
 	public class MaakTrainingActivity : Activity
 	{
 		private List<Onderwerp> onderwerpenList;
@@ -46,22 +46,19 @@ namespace ScoreMore
 
 			//kijken of de checkedItems wordt gevuld
 			Button volgendeButton = FindViewById<Button> (Resource.Id.naarSubsButton);
-			volgendeButton.Click += delegate {
-				String text = "";
-				for(int i = 0; i < checkedItems.Count; i++){
-					text += checkedItems[i] + " ";
-				}
 
-				Toast.MakeText(this, checkedItems.Count, ToastLength.Short).Show();
+			volgendeButton.Click += delegate {
+				StartActivity (typeof(Vraag1));
 			};
 		}
 
-		/*public void OnListItemClick(object sender, AdapterView.ItemClickEventArgs e){
-			var listview = sender as ListView;
-			Onderwerp check = onderwerpenList [e.Position];
-			//Toast.MakeText (this, check.getTitel (), ToastLength.Short).Show ();
-			checkedItems.Add (check);
-		}*/
+
+//		public void OnListItemClick(object sender, AdapterView.ItemClickEventArgs e){
+//			var listview = sender as ListView;
+//			Onderwerp check = onderwerpenList [e.Position];
+//			//Toast.MakeText (this, check.getTitel (), ToastLength.Short).Show ();
+//			checkedItems.Add (check);
+//		}
 	}
 }
 

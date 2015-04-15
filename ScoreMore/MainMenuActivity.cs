@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace ScoreMore
 {
-	[Activity]			
+	[Activity (Label = "Score-More", Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]		
 	public class MainMenuActivity : Activity
 	{
 		
@@ -47,8 +47,10 @@ namespace ScoreMore
 			};
 
 			button_menuvraag.Click += delegate {
-				StartActivity (typeof(VraaginvoerActivity));
+				StartActivity (typeof(VraagInvoerOnderwerpKeuzeActivity));
 			};
+
+
 
 		}
 

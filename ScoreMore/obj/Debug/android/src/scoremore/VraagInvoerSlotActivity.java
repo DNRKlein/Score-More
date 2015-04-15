@@ -1,7 +1,7 @@
 package scoremore;
 
 
-public class MainActivity
+public class VraagInvoerSlotActivity
 	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
@@ -11,15 +11,15 @@ public class MainActivity
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("ScoreMore.MainActivity, ScoreMore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MainActivity.class, __md_methods);
+		mono.android.Runtime.register ("ScoreMore.VraagInvoerSlotActivity, ScoreMore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", VraagInvoerSlotActivity.class, __md_methods);
 	}
 
 
-	public MainActivity () throws java.lang.Throwable
+	public VraagInvoerSlotActivity () throws java.lang.Throwable
 	{
 		super ();
-		if (getClass () == MainActivity.class)
-			mono.android.TypeManager.Activate ("ScoreMore.MainActivity, ScoreMore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == VraagInvoerSlotActivity.class)
+			mono.android.TypeManager.Activate ("ScoreMore.VraagInvoerSlotActivity, ScoreMore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

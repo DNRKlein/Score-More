@@ -2,17 +2,49 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="ScoreMore.ScoreMore">
   <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="19" />
   <application android:label="ScoreMore" android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.MainActivity">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="VolgendeActivity" android:name="scoremore.VolgendeActivity" />
-    <activity android:label="Vraag1" android:name="scoremore.Vraag1" />
-    <activity android:name="scoremore.MainMenuActivity" />
-    <activity android:label="ScoreMore" android:name="scoremore.VraaginvoerActivity" />
-    <activity android:name="scoremore.MaakTrainingActivity" />
+<<<<<<< HEAD
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.VolgendeActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.Vraag1" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.MainMenuActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.VraaginvoerActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.MaakTrainingActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.VraagInvoer1Activity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.VraagInvoer2Activity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.VraagInvoerSlotActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:name="scoremore.VraagInvoerOnderwerpKeuzeActivity" />
+=======
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.VolgendeActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.Vraag1" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.MainMenuActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.VraaginvoerActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.MaakTrainingActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.VraagInvoer1Activity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.VraagInvoer2Activity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.VraagInvoerSlotActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.VraagInvoerOnderwerpKeuzeActivity" />
+    <activity android:icon="@drawable/icon" android:label="Score-More" android:screenOrientation="portrait" android:name="scoremore.RegistreerActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="ScoreMore.ScoreMore.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>

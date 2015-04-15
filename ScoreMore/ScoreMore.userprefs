@@ -1,8 +1,38 @@
 ﻿<Properties StartupItem="ScoreMore.csproj">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.59.101:5555" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MaakTrainingActivity.cs">
     <Files>
       <File FileName="MaakTrainingActivity.cs" Line="64" Column="6" />
+=======
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+=======
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.7N2STX144A023155" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaakTrainingActivity.cs">
+    <Files>
+      <File FileName="Vraag1.cs" Line="90" Column="6" />
+      <File FileName="ScoreMoreLib\Vraag.cs" Line="25" Column="18" />
+      <File FileName="MaakTrainingActivity.cs" Line="16" Column="2" />
+      <File FileName="MainMenuActivity.cs" Line="53" Column="4" />
+=======
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
+>>>>>>> origin/master
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScoreMoreLib\Vraag.cs">
+    <Files>
+      <File FileName="ScoreMoreLib\Resources\Resource.designer.cs" Line="1" Column="1" />
+<<<<<<< HEAD
+      <File FileName="ScoreMoreLib\Vraag.cs" Line="34" Column="1" />
+=======
+      <File FileName="ScoreMoreLib\Vraag.cs" Line="21" Column="11" />
+      <File FileName="..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="3963" Column="66" />
+      <File FileName="RegistreerActivity.cs" Line="22" Column="51" />
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> 1be47791af1cfab69d67dc1e4f1064d59d1d1cf4
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

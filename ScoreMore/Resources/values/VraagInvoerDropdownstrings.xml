@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="Onderwerp">Kies een onderwerp</string>
+    <string-array name="onderwerp_lijst">
+    	<item> </item>
+        <item>IF1</item>
+        <item>IF5</item>
+        <item>IICT</item>
+        <item>IID</item>
+        <item>IIM</item>
+        <item>IIT</item>
+    </string-array>
+
+    <string name="Subonderwerp">Kies een subonderwerp</string>
+    <string-array name="subonderwerp_lijst">
+    	<item> </item>
+        <item>Berekeningen</item>
+        <item>Flow-charts</item>
+        <item>SBO</item>
+    </string-array>
+</resources>

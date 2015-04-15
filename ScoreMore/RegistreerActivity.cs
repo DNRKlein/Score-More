@@ -12,11 +12,9 @@ using ScoreMoreLib;
 
 namespace ScoreMore
 {
-	[Activity (Label = "Score-More", MainLauncher = true, Icon = "@drawable/icon")]
-	public class MainActivity : Activity
+	[Activity (Label = "Score-More", MainLauncher = true, Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]
+	public class RegistreerActivity : Activity
 	{
-		//int count = 1;
-
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
@@ -34,57 +32,43 @@ namespace ScoreMore
 			TextView txt_waarschuwing = FindViewById<TextView> (Resource.Id.txt_waarschuwing);
 
 			button_registreren.Click += delegate {
-				// Zodra de gebruiker op registreren klikt
-				// Controleer of alles juist is ingevuld
-
+				
 				// Controleer of alles is ingevuld
 				if (inv_email.Text == "" || inv_wachtwoord.Text == "" || her_wachtwoord.Text == "")
 				{
 					txt_waarschuwing.Text = String.Format("Niet alles is ingevuld!");
 					return;}
-				else{
-					txt_waarschuwing.Text = String.Format("Stage 1 completed.");
-				}
 
 				// Controleren of beide wachtwoorden overeenkomen
 				if (inv_wachtwoord.Text != her_wachtwoord.Text) {
 					txt_waarschuwing.Text = String.Format("Wachtwoorden komen niet overeen!");
-					return;
-				}
-				else{
-					txt_waarschuwing.Text = String.Format("Stage 2 completed.");
-				}
+					return;}
 
 				// Controleren of wachtwoord lang genoeg is 
-				// Minimum is 5 karakters.
+				// Minimaal 5 karakters.
 				if (inv_wachtwoord.Text.Length < 5)
 				{
 					txt_waarschuwing.Text = String.Format("Wachtwoord is te kort");
-					return;
-				}else{
-					txt_waarschuwing.Text = String.Format("Stage 3 completed.");
-				}
+					return;}
+
 
 				// Controleren of het emailadres geldig is.
-				if (inv_email.Text.IndexOf("@") == -1)
+				// Minimaal 5 karakters en een @ symbool.
+				string substring = " ";
+
+				if (inv_email.Text.IndexOf("@") == -1 || inv_email.Text.Length < 5|| inv_email.Text.IndexOf(substring) != -1)
 				{
 					txt_waarschuwing.Text = String.Format("Geen geldig emailadres");
-					return;
-				}else{
-					txt_waarschuwing.Text = String.Format("Stage 4 completed.");
-				}
-
-				// Controleren of het account al bestaat.
-
+					return;}
 
 				// Aanmaken van een studentobject.
 				string email_value = inv_email.Text;
 				string wachtwoord_value = inv_wachtwoord.Text;
 
-				Student student1 = new Student(email_value, wachtwoord_value);
-				txt_waarschuwing.Text = String.Format("Het account is aangemaakt met de naam {0}", inv_email.Text);
+				new Student(email_value, wachtwoord_value);
+				// txt_waarschuwing.Text = String.Format("Het account is aangemaakt met de naam {0}", inv_email.Text);
 
-				// overschakelen naar mainscreen --
+				// overschakelen naar mainscreen
 				Intent activity2 = new Intent (this, typeof(MainMenuActivity));
 				activity2.PutExtra ("myData", email_value);
 
