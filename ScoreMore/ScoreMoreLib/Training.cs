@@ -5,10 +5,6 @@ namespace ScoreMore
 { 
 	public class Training
 	{
-		private Button button1;
-		private Button button2;
-		private Button button3;
-		private Button button4;
 
 
 		public Training ()

@@ -9,13 +9,13 @@ namespace ScoreMoreLib
 		private VraagType vraagType;
 		private string vraag;
 		private string[] antwoorden;
+		private Onderwerp onderwerp;
 
-		public Vraag (string vraag, string[] antwoorden)
+		public Vraag (string vraag, string[] antwoorden, Onderwerp ond)
 		{
 			this.vraag = vraag;
 			this.antwoorden = antwoorden;
-
-			
+			onderwerp = ond;	
 		}
 
 		public string GetVraag(){
@@ -24,6 +24,10 @@ namespace ScoreMoreLib
 
 		public string[] GetAntwoorden(){
 			return antwoorden;
+		}
+
+		public Onderwerp getOnderwerp(){
+			return onderwerp;
 		}
 
 		public void Invoer(){
