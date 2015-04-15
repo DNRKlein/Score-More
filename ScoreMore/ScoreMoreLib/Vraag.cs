@@ -43,10 +43,7 @@ namespace ScoreMoreLib
 
 			}
 		}
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
 
 
 
@@ -71,10 +68,6 @@ namespace ScoreMoreLib
 			}
 		}*/
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 	}
 }
 
