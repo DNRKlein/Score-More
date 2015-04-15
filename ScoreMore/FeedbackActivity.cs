@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace ScoreMore
 {
-	[Activity (Label = "FeedbackActivity")]			
+	[Activity (Label = "FeedbackActivity", Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]			
 	public class FeedbackActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
@@ -25,8 +25,12 @@ namespace ScoreMore
 
 			// Create your application here.
 			button_mainMenu.Click += delegate {
-				StartActivity(typeof(MainMenuActivity));
+				StartActivity (typeof(MainMenuActivity));
 			};
+		}
+
+		public override void OnBackPressed() {
+			//keep it blank
 		}
 	}
 }

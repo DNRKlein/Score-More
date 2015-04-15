@@ -30,6 +30,7 @@ namespace ScoreMore
 		private Button button2;
 		private Button button3;
 		private Button button4;
+		private Button button5;
 		private int vraagIndex = 0;
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -60,6 +61,7 @@ namespace ScoreMore
 			button2 = FindViewById<Button> (Resource.Id.button2);
 			button3 = FindViewById<Button> (Resource.Id.button3);
 			button4 = FindViewById<Button> (Resource.Id.button4);
+			button5 = FindViewById<Button> (Resource.Id.button5);
 			vraag = FindViewById<TextView> (Resource.Id.textView1);
 			gestureDetector = new GestureDetector (this);
 			huidigeVraag = vragen [vraagIndex];
@@ -106,6 +108,11 @@ namespace ScoreMore
 //				button3.SetOnClickListener(null);
 //				button4.SetOnClickListener(null);
 			};
+
+			button5.Click += delegate {
+				StartActivity (typeof(FeedbackActivity));
+			};
+				
 				
 
 		}
