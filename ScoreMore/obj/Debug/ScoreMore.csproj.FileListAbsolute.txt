@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\bin\Debug\ScoreMore.dll
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\bin\Debug\ScoreMore.pdb
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\bin\Debug\ScoreMore.dll.mdb
@@ -30,3 +31,69 @@ C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMo
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\obj\Debug\res\values\vraaginvoerdropdownstrings.xml
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\obj\Debug\R.cs.flag
 C:\Users\Mart\Zuyd\2014_2015\Kwartiel 3_leerjaar 2\PIT 1\Casus\ScoreMore\ScoreMore\ScoreMore\obj\Debug\uploadflags.txt
+=======
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMore.dll
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMore.pdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMore.dll.mdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMore.ScoreMore.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMore.ScoreMore-Signed.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.dll
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.pdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.dll.mdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\ScoreMore.csprojResolveAssemblyReference.cache
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\ScoreMore.dll
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\ScoreMore.pdb
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\android\bin\ScoreMore.ScoreMore.apk
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\values\strings.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-hdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-mdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-xhdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoermain.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer1.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer2.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\registreren.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraag1layout.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\volgendelayout.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\mainmenu.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\maaktraining.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoeronderwerpkeuze.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoerslot.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\layout\trainingfeedback.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\res\values\vraaginvoerdropdownstrings.xml
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\R.cs.flag
+C:\HBO Zuyd ICT\Studiejaar 2\Blok 1\PIT1\Score More\Score-More\ScoreMore\obj\Debug\uploadflags.txt
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.dll.mdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.ScoreMore.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMore.ScoreMore-Signed.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\bin\Debug\ScoreMoreLib.dll.mdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\ScoreMore.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\ScoreMore.dll
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\ScoreMore.pdb
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\android\bin\ScoreMore.ScoreMore.apk
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\values\strings.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoermain.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer1.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoer2.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\registreren.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraag1layout.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\volgendelayout.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\mainmenu.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\maaktraining.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoeronderwerpkeuze.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\vraaginvoerslot.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\layout\trainingfeedback.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\res\values\vraaginvoerdropdownstrings.xml
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\R.cs.flag
+C:\Users\Barry\Documents\Github\Score-More\ScoreMore\obj\Debug\uploadflags.txt
+>>>>>>> origin/master

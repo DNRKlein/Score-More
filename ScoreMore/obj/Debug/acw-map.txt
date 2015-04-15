@@ -9,3 +9,4 @@ ScoreMore.VraagInvoer2Activity;scoremore.VraagInvoer2Activity
 ScoreMore.VraagInvoerSlotActivity;scoremore.VraagInvoerSlotActivity
 ScoreMore.VraagInvoerOnderwerpKeuzeActivity;scoremore.VraagInvoerOnderwerpKeuzeActivity
 ScoreMore.RegistreerActivity;scoremore.RegistreerActivity
+ScoreMore.FeedbackActivity;scoremore.FeedbackActivity

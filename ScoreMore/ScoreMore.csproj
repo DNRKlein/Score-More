@@ -60,6 +60,7 @@
     <Compile Include="VraagInvoerOnderwerpKeuzeActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="RegistreerActivity.cs" />
+    <Compile Include="FeedbackActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
